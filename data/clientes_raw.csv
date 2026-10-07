@@ -1,0 +1,1001 @@
+﻿ClienteID,Nome,CPF,Email,Cidade,DataCadastro
+1,Maria Souza,412.460.130-15,maria.souza@email.com,São Caetano do Sul,24/03/2024
+2,Maria Souza,868.463.260-96,maria.souza@email.com,Santo André,14/10/2024
+3,João Silva,187.179.126-86,joão.silva@email.com,São Caetano do Sul,17/04/2024
+4,Camila Martins,831.284.151-55,camila.martins@email.com,São Caetano do Sul,21/12/2024
+5,Rafael Lima,418.665.949-80,rafael.lima@email.com,Osasco,09/10/2024
+6, João Silva ,547.647.879-85,joão.silva@email.com,Diadema,07/03/2024
+7,Juliana Almeida,190.289.243-97,juliana.almeida@email.com,Santos,12/02/2024
+8,Juliana Almeida,469.527.219-23,juliana.almeida@email.com,São Paulo,15/12/2024
+9,Rafael Lima,655.008.360-01,rafael.lima@email.com,Santo André,10/09/2024
+10,Camila Martins,888.626.219-36,camila.martins@email.com,São Caetano do Sul,03/12/2024
+11,João Silva,429.048.754-17,joão.silva@email.com,Diadema,28/02/2024
+12,Ana Santos,266.064.209-14,ana.santos@email.com,Santos,15/05/2024
+13,Juliana Almeida,579.432.342-81,juliana.almeida@email.com,Campinas,22/04/2024
+14,Pedro Costa,988.351.607-92,pedro.costa@email.com,Santo André,21/10/2024
+15,Carlos Oliveira,325.262.914-03,carlos.oliveira@email.com,Osasco,09/07/2024
+16, Maria Souza ,403.050.227-33,rafael.lima@email.com,São Paulo,13/06/2024
+17,Pedro Costa,360.540.816-65,pedro.costa@email.com,Campinas,21/04/2024
+18,Fernanda Rodrigues,998.272.978-93,fernanda.rodrigues@email.com,Osasco,09/03/2024
+19,Carlos Oliveira,854.255.018-19,carlos.oliveira@email.com,Diadema,19/12/2024
+20,Lucas Pereira,911.655.312-53,lucas.pereira@email.com,Santos,08/06/2024
+21,Carlos Oliveira,766.129.082-00,,Santo André,28/01/2024
+22,Maria Souza,965.557.943-99,maria.souza@email.com,São Bernardo do Campo,14/11/2024
+23,Camila Martins,618.124.569-76,camila.martins@email.com,Santos,15/10/2024
+24,Rafael Lima,140.477.097-43,rafael.lima@email.com,Santo André,18/11/2024
+25,Pedro Costa,992.004.523-23,pedro.costa@email.com,Campinas,10/02/2024
+26,Lucas Pereira,708.088.245-22,lucas.pereira@email.com,São Paulo,24/12/2024
+27,Pedro Costa,828.937.043-31,pedro.costa@email.com,São Bernardo do Campo,04/09/2024
+28,Pedro Costa,995.142.882-47,pedro.costa@email.com,São Caetano do Sul,12/03/2024
+29,Carlos Oliveira,916.068.348-97,carlos.oliveira@email.com,Campinas,01/08/2024
+30,Maria Souza,612.350.884-33,maria.souza@email.com,Diadema,02/04/2024
+31,Ana Santos,910.804.338-48,ana.santos@email.com,Santo André,24/02/2024
+32,Fernanda Rodrigues,220.947.277-76,fernanda.rodrigues@email.com,São Bernardo do Campo,22/03/2024
+33,Fernanda Rodrigues,870.811.281-40,fernanda.rodrigues@email.com,São Bernardo do Campo,17/05/2024
+34,Camila Martins,628.784.188-42,camila.martins@email.com,Campinas,17/08/2024
+35,Fernanda Rodrigues,405.844.801-51,fernanda.rodrigues@email.com,São Caetano do Sul,11/02/2024
+36,João Silva,855.412.107-22,,São Caetano do Sul,08/10/2024
+37,João Silva,170.055.338-78,joão.silva@email.com,São Caetano do Sul,02/02/2024
+38,Juliana Almeida,790.238.067-39,juliana.almeida@email.com,São Caetano do Sul,22/05/2024
+39,Fernanda Rodrigues,839.345.841-22,fernanda.rodrigues@email.com,São Bernardo do Campo,19/12/2024
+40,Camila Martins,420.948.776-89,camila.martins@email.com,Osasco,07/07/2024
+41,Maria Souza,590.959.909-95,maria.souza@email.com,Sao Paulo,15/07/2024
+42,João Silva,987.914.246-11,joão.silva@email.com,Santo André,13/01/2024
+43,Juliana Almeida,405.340.779-91,juliana.almeida@email.com,São Caetano do Sul,18/04/2024
+44,Fernanda Rodrigues,664.366.532-36,fernanda.rodrigues@email.com,São Bernardo do Campo,15/05/2024
+45,Ana Santos,704.533.177-78,ana.santos@email.com,Santo André,21/01/2024
+46,Rafael Lima,135.907.111-52,rafael.lima@email.com,Santo André,06/04/2024
+47,Lucas Pereira,765.103.221-99,lucas.pereira@email.com,São Caetano do Sul,02/07/2024
+48,Carlos Oliveira,116.276.771-55,carlos.oliveira@email.com,Santos,26/05/2024
+49,Fernanda Rodrigues,670.597.109-62,fernanda.rodrigues@email.com,Osasco,07/03/2024
+50,Pedro Costa,875.605.951-58,pedro.costa@email.com,São Paulo,11/12/2024
+51,João Silva,875.247.710-10,joão.silva@email.com,SAO PAULO,28/09/2024
+52,Rafael Lima,149.711.357-17,rafael.lima@email.com,Santo André,03/03/2024
+53,Camila Martins,437.662.563-64,camila.martins@email.com,Santos,19/02/2024
+54,Ana Santos,940.908.170-27,ana.santos@email.com,São Paulo,03/10/2024
+55,Lucas Pereira,901.328.075-70,lucas.pereira@email.com,Campinas,07/05/2024
+56,Juliana Almeida,453.848.867-49,juliana.almeida@email.com,Santos,22/03/2024
+57,Pedro Costa,549.134.375-57,pedro.costa@email.com,Santo André,15/01/2024
+58,Camila Martins,915.977.404-82,camila.martins@email.com,Santo André,18/02/2024
+59,Ana Santos,465.324.965-88,ana.santos@email.com,São Bernardo do Campo,03/06/2024
+60,Ana Santos,502.418.124-34,ana.santos@email.com,São Bernardo do Campo,27/08/2024
+61,Rafael Lima,516.763.866-27,rafael.lima@email.com,São Paulo,27/11/2024
+62,Rafael Lima,257.341.347-27,rafael.lima@email.com,São Bernardo do Campo,04/05/2024
+63,Maria Souza,862.030.994-19,maria.souza@email.com,São Bernardo do Campo,10/05/2024
+64,Camila Martins,372.424.634-02,camila.martins@email.com,Diadema,16/09/2024
+65,Pedro Costa,179.289.550-72,pedro.costa@email.com,Santo André,14/11/2024
+66,Pedro Costa,101.893.512-13,pedro.costa@email.com,Campinas,21/03/2024
+67,Pedro Costa,849.121.130-97,pedro.costa@email.com,Santos,01/09/2024
+68,Maria Souza,310.622.128-42,maria.souza@email.com,São Paulo,19/06/2024
+69,Rafael Lima,664.706.328-23,rafael.lima@email.com,São Bernardo do Campo,10/01/2024
+70,Juliana Almeida,179.916.567-53,juliana.almeida@email.com,Campinas,22/04/2024
+71,Ana Santos,257.493.590-98,ana.santos@email.com,Campinas,28/09/2024
+72,Lucas Pereira,957.869.767-72,lucas.pereira@email.com,São Bernardo do Campo,28/04/2024
+73,Carlos Oliveira,349.570.745-22,carlos.oliveira@email.com,Santos,06/01/2024
+74,Juliana Almeida,454.256.085-46,juliana.almeida@email.com,São Bernardo do Campo,04/12/2024
+75,Lucas Pereira,180.408.951-20,lucas.pereira@email.com,Osasco,07/04/2024
+76,Fernanda Rodrigues,501.564.771-55,fernanda.rodrigues@email.com,São Caetano do Sul,01/04/2024
+77,Ana Santos,546.610.713-12,ana.santos@email.com,Diadema,25/02/2024
+78,Pedro Costa,974.075.070-57,pedro.costa@email.com,Santos,27/11/2024
+79,Rafael Lima,230.034.452-96,rafael.lima@email.com,Diadema,19/03/2024
+80,Pedro Costa,230.492.152-98,pedro.costa@email.com,Santos,24/06/2024
+81,Juliana Almeida,934.786.760-81,juliana.almeida@email.com,Santo André,19/07/2024
+82,Ana Santos,153.889.921-40,ana.santos@email.com,Santos,17/01/2024
+83,Rafael Lima,580.908.997-06,rafael.lima@email.com,Santos,22/02/2024
+84,Juliana Almeida,556.261.050-63,juliana.almeida@email.com,Santo André,10/12/2024
+85,Rafael Lima,547.037.071-57,rafael.lima@email.com,Santos,10/12/2024
+86,Rafael Lima,363.165.007-26,rafael.lima@email.com,Santos,13/11/2024
+87,Carlos Oliveira,899.530.277-59,carlos.oliveira@email.com,Diadema,18/07/2024
+88,João Silva,499.598.386-47,joão.silva@email.com,São Caetano do Sul,26/07/2024
+89,Camila Martins,985.049.375-08,camila.martins@email.com,Campinas,15/08/2024
+90,Fernanda Rodrigues,386.716.006-70,fernanda.rodrigues@email.com,Osasco,06/12/2024
+91,Maria Souza,799.383.300-64,maria.souza@email.com,Campinas,27/02/2024
+92,Ana Santos,515.443.410-56,ana.santos@email.com,São Caetano do Sul,05/04/2024
+93,João Silva,402.632.574-88,joão.silva@email.com,Osasco,28/10/2024
+94,Maria Souza,677.905.723-88,maria.souza@email.com,São Caetano do Sul,23/12/2024
+95,Lucas Pereira,636.629.413-33,lucas.pereira@email.com,São Caetano do Sul,21/03/2024
+96,João Silva,266.879.459-93,joão.silva@email.com,Santos,06/04/2024
+97,Rafael Lima,162.901.938-78,rafael.lima@email.com,São Caetano do Sul,15/02/2024
+98,Carlos Oliveira,735.716.002-39,carlos.oliveira@email.com,Campinas,20/08/2024
+99,Rafael Lima,869.093.554-49,rafael.lima@email.com,Osasco,24/03/2024
+100,Fernanda Rodrigues,462.927.732-73,fernanda.rodrigues@email.com,São Caetano do Sul,09/11/2024
+101,Rafael Lima,979.806.742-64,rafael.lima@email.com,São Caetano do Sul,15/05/2024
+102,Maria Souza,517.193.575-31,maria.souza@email.com,São Caetano do Sul,11/05/2024
+103,Juliana Almeida,868.499.650-85,juliana.almeida@email.com,Santo André,05/03/2024
+104,Ana Santos,195.088.552-12,ana.santos@email.com,Santos,11/07/2024
+105,Rafael Lima,678.357.045-06,rafael.lima@email.com,São Paulo,27/04/2024
+106,Lucas Pereira,906.156.590-07,lucas.pereira@email.com,São Paulo,13/10/2024
+107,Fernanda Rodrigues,501.654.982-36,fernanda.rodrigues@email.com,Santos,18/07/2024
+108,Rafael Lima,950.397.862-43,rafael.lima@email.com,São Caetano do Sul,08/08/2024
+109,Pedro Costa,762.964.107-18,pedro.costa@email.com,São Paulo,11/07/2024
+110,Lucas Pereira,345.851.718-39,lucas.pereira@email.com,Osasco,20/03/2024
+111,Rafael Lima,890.017.154-30,rafael.lima@email.com,São Paulo,21/02/2024
+112,Lucas Pereira,334.578.162-21,lucas.pereira@email.com,São Paulo,13/05/2024
+113,Juliana Almeida,710.386.161-56,juliana.almeida@email.com,Campinas,25/06/2024
+114,Lucas Pereira,461.703.455-21,lucas.pereira@email.com,Santo André,01/08/2024
+115,Rafael Lima,613.331.042-19,rafael.lima@email.com,São Caetano do Sul,03/11/2024
+116,João Silva,132.394.069-57,joão.silva@email.com,São Caetano do Sul,27/04/2024
+117,João Silva,298.484.855-17,joão.silva@email.com,São Caetano do Sul,16/03/2024
+118,Maria Souza,710.656.927-31,maria.souza@email.com,Diadema,06/06/2024
+119,Camila Martins,349.937.082-24,camila.martins@email.com,Diadema,19/02/2024
+120,João Silva,526.442.456-86,joão.silva@email.com,Santos,23/07/2024
+121,Ana Santos,876.358.137-02,ana.santos@email.com,São Caetano do Sul,23/02/2024
+122,Pedro Costa,915.349.906-43,pedro.costa@email.com,São Paulo,18/06/2024
+123,Lucas Pereira,600.858.527-71,lucas.pereira@email.com,Santo André,21/09/2024
+124,Juliana Almeida,249.903.021-89,juliana.almeida@email.com,Santos,21/06/2024
+125,Fernanda Rodrigues,302.177.366-96,fernanda.rodrigues@email.com,Santos,24/03/2024
+126,Rafael Lima,927.643.736-70,rafael.lima@email.com,Osasco,14/08/2024
+127,Camila Martins,541.024.230-31,camila.martins@email.com,São Caetano do Sul,09/02/2024
+128,Fernanda Rodrigues,893.053.189-97,fernanda.rodrigues@email.com,Santos,01/06/2024
+129,Fernanda Rodrigues,566.044.875-65,fernanda.rodrigues@email.com,São Bernardo do Campo,07/08/2024
+130,Juliana Almeida,477.864.022-70,juliana.almeida@email.com,Campinas,20/05/2024
+131,Pedro Costa,123.871.042-91,pedro.costa@email.com,São Caetano do Sul,08/02/2024
+132,Lucas Pereira,851.128.699-12,lucas.pereira@email.com,São Caetano do Sul,16/12/2024
+133,Fernanda Rodrigues,186.639.938-45,fernanda.rodrigues@email.com,Diadema,13/04/2024
+134,Ana Santos,597.424.024-90,ana.santos@email.com,Osasco,17/09/2024
+135,Juliana Almeida,862.182.123-26,juliana.almeida@email.com,Campinas,23/06/2024
+136,Fernanda Rodrigues,498.182.828-50,fernanda.rodrigues@email.com,Diadema,04/04/2024
+137,Ana Santos,242.401.699-90,ana.santos@email.com,São Bernardo do Campo,07/04/2024
+138,Fernanda Rodrigues,819.845.447-80,fernanda.rodrigues@email.com,Diadema,27/02/2024
+139,Ana Santos,413.371.399-42,ana.santos@email.com,Campinas,10/03/2024
+140,João Silva,860.553.602-70,joão.silva@email.com,São Bernardo do Campo,02/05/2024
+141,João Silva,510.313.643-24,joão.silva@email.com,São Bernardo do Campo,28/11/2024
+142,Fernanda Rodrigues,873.620.908-18,fernanda.rodrigues@email.com,Diadema,16/08/2024
+143,Fernanda Rodrigues,329.381.573-41,fernanda.rodrigues@email.com,São Paulo,28/05/2024
+144,Fernanda Rodrigues,618.202.554-59,fernanda.rodrigues@email.com,Osasco,19/02/2024
+145,João Silva,278.315.317-31,joão.silva@email.com,Diadema,08/02/2024
+146,Maria Souza,933.918.324-31,maria.souza@email.com,São Caetano do Sul,13/09/2024
+147,Fernanda Rodrigues,740.315.387-49,fernanda.rodrigues@email.com,Diadema,14/10/2024
+148,Pedro Costa,940.466.235-87,pedro.costa@email.com,São Paulo,24/10/2024
+149,Maria Souza,967.917.881-73,maria.souza@email.com,São Caetano do Sul,22/05/2024
+150,Maria Souza,407.393.261-44,maria.souza@email.com,São Bernardo do Campo,03/09/2024
+151,Carlos Oliveira,658.460.670-02,carlos.oliveira@email.com,Osasco,20/12/2024
+152,Fernanda Rodrigues,155.459.164-32,fernanda.rodrigues@email.com,São Caetano do Sul,23/05/2024
+153,Pedro Costa,205.399.842-90,pedro.costa@email.com,São Caetano do Sul,26/05/2024
+154,Camila Martins,397.798.792-93,camila.martins@email.com,Santos,18/02/2024
+155,Ana Santos,299.614.391-38,ana.santos@email.com,Diadema,03/03/2024
+156,João Silva,929.255.612-83,joão.silva@email.com,Diadema,04/08/2024
+157,Fernanda Rodrigues,516.125.551-26,fernanda.rodrigues@email.com,Santos,17/05/2024
+158,Rafael Lima,722.503.764-61,rafael.lima@email.com,Santo André,02/10/2024
+159,Lucas Pereira,561.044.721-57,lucas.pereira@email.com,Diadema,03/01/2024
+160,Ana Santos,897.798.726-85,ana.santos@email.com,São Paulo,27/11/2024
+161,Pedro Costa,167.699.292-59,pedro.costa@email.com,São Bernardo do Campo,17/08/2024
+162,Fernanda Rodrigues,482.942.410-24,fernanda.rodrigues@email.com,São Bernardo do Campo,14/10/2024
+163,Fernanda Rodrigues,227.519.951-38,fernanda.rodrigues@email.com,Osasco,14/06/2024
+164,Juliana Almeida,536.404.104-54,juliana.almeida@email.com,Santos,16/12/2024
+165,Pedro Costa,862.807.656-93,pedro.costa@email.com,São Paulo,03/08/2024
+166,Juliana Almeida,540.337.177-62,juliana.almeida@email.com,Santo André,28/07/2024
+167,Rafael Lima,867.483.489-39,rafael.lima@email.com,Osasco,02/07/2024
+168,Ana Santos,594.713.205-07,ana.santos@email.com,Osasco,15/11/2024
+169,João Silva,452.340.143-56,joão.silva@email.com,São Bernardo do Campo,15/05/2024
+170,Fernanda Rodrigues,105.215.210-78,fernanda.rodrigues@email.com,São Caetano do Sul,06/12/2024
+171,Pedro Costa,123.658.355-50,pedro.costa@email.com,Santos,08/02/2024
+172,Maria Souza,964.038.591-71,maria.souza@email.com,São Bernardo do Campo,23/08/2024
+173,Pedro Costa,670.089.258-27,pedro.costa@email.com,Osasco,08/08/2024
+174,Fernanda Rodrigues,295.475.346-56,fernanda.rodrigues@email.com,Santos,20/04/2024
+175,Rafael Lima,446.595.703-91,rafael.lima@email.com,Santos,26/06/2024
+176,Rafael Lima,486.657.233-69,rafael.lima@email.com,Diadema,19/10/2024
+177,Fernanda Rodrigues,308.961.351-57,fernanda.rodrigues@email.com,Osasco,16/09/2024
+178,Juliana Almeida,844.422.627-62,juliana.almeida@email.com,Santos,11/08/2024
+179,Ana Santos,883.350.733-28,ana.santos@email.com,Santos,28/04/2024
+180,Lucas Pereira,531.371.366-82,lucas.pereira@email.com,Osasco,26/12/2024
+181,Lucas Pereira,994.244.298-16,lucas.pereira@email.com,São Bernardo do Campo,02/08/2024
+182,Carlos Oliveira,554.844.786-06,carlos.oliveira@email.com,Santo André,04/08/2024
+183,Rafael Lima,740.398.593-91,rafael.lima@email.com,São Paulo,05/12/2024
+184,Lucas Pereira,996.399.745-37,lucas.pereira@email.com,São Bernardo do Campo,16/02/2024
+185,Pedro Costa,930.584.880-49,pedro.costa@email.com,Santos,03/11/2024
+186,Juliana Almeida,867.052.906-22,juliana.almeida@email.com,Santos,21/06/2024
+187,Fernanda Rodrigues,867.613.005-60,fernanda.rodrigues@email.com,São Paulo,03/10/2024
+188,Ana Santos,526.100.660-31,ana.santos@email.com,São Caetano do Sul,03/12/2024
+189,Lucas Pereira,270.868.304-33,lucas.pereira@email.com,Santo André,06/08/2024
+190,Pedro Costa,138.801.768-25,pedro.costa@email.com,São Paulo,26/06/2024
+191,João Silva,585.046.452-75,joão.silva@email.com,Campinas,05/07/2024
+192,Ana Santos,681.159.168-26,ana.santos@email.com,São Bernardo do Campo,06/03/2024
+193,Maria Souza,932.473.938-83,maria.souza@email.com,São Caetano do Sul,19/08/2024
+194,Carlos Oliveira,711.267.839-05,carlos.oliveira@email.com,Diadema,09/08/2024
+195,João Silva,338.224.576-18,joão.silva@email.com,Santo André,12/08/2024
+196,Camila Martins,971.842.036-26,camila.martins@email.com,Santos,09/12/2024
+197,Fernanda Rodrigues,522.852.583-94,fernanda.rodrigues@email.com,São Caetano do Sul,28/07/2024
+198,Fernanda Rodrigues,405.228.433-90,fernanda.rodrigues@email.com,Santos,12/10/2024
+199,Camila Martins,516.580.864-56,camila.martins@email.com,São Paulo,13/11/2024
+200,Pedro Costa,873.441.918-28,pedro.costa@email.com,São Paulo,24/10/2024
+201,Fernanda Rodrigues,525.327.816-03,fernanda.rodrigues@email.com,São Caetano do Sul,26/10/2024
+202,Juliana Almeida,968.399.632-38,juliana.almeida@email.com,São Caetano do Sul,09/10/2024
+203,Carlos Oliveira,255.832.069-73,carlos.oliveira@email.com,São Paulo,26/05/2024
+204,Fernanda Rodrigues,874.527.108-92,fernanda.rodrigues@email.com,Campinas,05/12/2024
+205,Maria Souza,525.615.273-86,maria.souza@email.com,Campinas,14/12/2024
+206,Carlos Oliveira,280.422.762-77,carlos.oliveira@email.com,Campinas,17/09/2024
+207,Pedro Costa,350.416.892-41,pedro.costa@email.com,Diadema,26/08/2024
+208,Pedro Costa,706.241.922-75,pedro.costa@email.com,Santo André,25/03/2024
+209,Ana Santos,657.484.274-27,ana.santos@email.com,Campinas,26/02/2024
+210,Lucas Pereira,444.195.185-57,lucas.pereira@email.com,Santo André,12/08/2024
+211,Pedro Costa,640.502.740-42,pedro.costa@email.com,Campinas,22/02/2024
+212,Ana Santos,120.249.777-37,ana.santos@email.com,Campinas,08/10/2024
+213,Maria Souza,516.658.091-82,maria.souza@email.com,Santos,05/02/2024
+214,João Silva,183.591.296-61,joão.silva@email.com,Diadema,04/08/2024
+215,Maria Souza,294.886.142-74,maria.souza@email.com,Santos,12/08/2024
+216,Rafael Lima,891.095.470-25,rafael.lima@email.com,São Bernardo do Campo,21/07/2024
+217,Maria Souza,780.051.939-62,maria.souza@email.com,Santos,02/05/2024
+218,Juliana Almeida,710.627.083-34,juliana.almeida@email.com,Osasco,28/04/2024
+219,Juliana Almeida,601.896.145-72,juliana.almeida@email.com,Campinas,13/01/2024
+220,Pedro Costa,205.429.308-40,pedro.costa@email.com,São Caetano do Sul,21/11/2024
+221,Camila Martins,141.708.140-22,camila.martins@email.com,São Paulo,08/06/2024
+222,Carlos Oliveira,906.894.565-36,carlos.oliveira@email.com,São Caetano do Sul,27/02/2024
+223,Rafael Lima,881.991.454-56,rafael.lima@email.com,São Caetano do Sul,11/04/2024
+224,Carlos Oliveira,125.597.216-44,carlos.oliveira@email.com,Diadema,05/03/2024
+225,Rafael Lima,236.343.613-19,rafael.lima@email.com,São Paulo,01/03/2024
+226,Juliana Almeida,883.313.197-83,juliana.almeida@email.com,Campinas,06/01/2024
+227,Pedro Costa,274.049.212-67,pedro.costa@email.com,Santos,04/09/2024
+228,Maria Souza,721.750.029-84,maria.souza@email.com,Campinas,19/09/2024
+229,Maria Souza,806.608.252-43,maria.souza@email.com,São Caetano do Sul,02/10/2024
+230,Rafael Lima,714.250.345-53,rafael.lima@email.com,São Paulo,16/01/2024
+231,Lucas Pereira,748.882.019-59,lucas.pereira@email.com,Osasco,03/02/2024
+232,Juliana Almeida,297.924.867-41,juliana.almeida@email.com,Santo André,09/03/2024
+233,Camila Martins,900.284.551-61,camila.martins@email.com,Campinas,20/07/2024
+234,Rafael Lima,713.961.183-32,rafael.lima@email.com,Santos,26/02/2024
+235,Maria Souza,995.620.628-29,maria.souza@email.com,São Caetano do Sul,15/07/2024
+236,Ana Santos,547.269.887-21,ana.santos@email.com,Osasco,14/07/2024
+237,Maria Souza,671.769.597-97,maria.souza@email.com,Campinas,09/11/2024
+238,Juliana Almeida,312.755.178-68,juliana.almeida@email.com,Osasco,03/02/2024
+239,Maria Souza,662.349.950-73,maria.souza@email.com,Santo André,24/12/2024
+240,Juliana Almeida,306.663.917-41,juliana.almeida@email.com,São Paulo,18/10/2024
+241,Rafael Lima,663.595.542-09,rafael.lima@email.com,Campinas,25/11/2024
+242,Lucas Pereira,173.918.993-33,lucas.pereira@email.com,Diadema,10/10/2024
+243,Juliana Almeida,877.543.723-65,juliana.almeida@email.com,São Caetano do Sul,22/03/2024
+244,Fernanda Rodrigues,577.094.346-74,fernanda.rodrigues@email.com,Campinas,25/02/2024
+245,Pedro Costa,425.305.118-28,pedro.costa@email.com,Santos,25/09/2024
+246,Camila Martins,857.748.159-15,camila.martins@email.com,São Paulo,22/10/2024
+247,Pedro Costa,315.991.894-62,pedro.costa@email.com,Diadema,25/12/2024
+248,Pedro Costa,569.076.464-71,pedro.costa@email.com,Campinas,06/01/2024
+249,Carlos Oliveira,203.112.902-65,carlos.oliveira@email.com,São Bernardo do Campo,21/12/2024
+250,João Silva,380.482.095-69,joão.silva@email.com,Santos,15/07/2024
+251,Juliana Almeida,579.207.079-38,juliana.almeida@email.com,Diadema,11/12/2024
+252,Camila Martins,211.506.962-20,camila.martins@email.com,São Paulo,06/03/2024
+253,Camila Martins,447.101.283-57,camila.martins@email.com,Osasco,14/11/2024
+254,Fernanda Rodrigues,727.369.137-41,fernanda.rodrigues@email.com,Santos,07/05/2024
+255,Rafael Lima,577.334.827-26,rafael.lima@email.com,Santos,10/02/2024
+256,Camila Martins,808.095.484-92,camila.martins@email.com,Diadema,08/01/2024
+257,Lucas Pereira,958.325.405-20,lucas.pereira@email.com,São Paulo,07/01/2024
+258,Pedro Costa,398.299.398-09,pedro.costa@email.com,São Bernardo do Campo,10/05/2024
+259,Juliana Almeida,105.153.288-54,juliana.almeida@email.com,Osasco,14/12/2024
+260,Carlos Oliveira,620.944.559-32,carlos.oliveira@email.com,São Caetano do Sul,18/09/2024
+261,Juliana Almeida,618.491.694-43,juliana.almeida@email.com,São Paulo,01/07/2024
+262,Fernanda Rodrigues,225.462.971-32,fernanda.rodrigues@email.com,Campinas,14/10/2024
+263,Camila Martins,685.839.623-77,camila.martins@email.com,Diadema,13/02/2024
+264,João Silva,570.994.690-26,joão.silva@email.com,São Bernardo do Campo,15/10/2024
+265,Juliana Almeida,662.130.898-10,juliana.almeida@email.com,Santo André,14/04/2024
+266,Camila Martins,804.393.955-91,camila.martins@email.com,Santo André,28/07/2024
+267,Pedro Costa,561.528.803-10,pedro.costa@email.com,São Caetano do Sul,25/06/2024
+268,Carlos Oliveira,790.475.236-60,carlos.oliveira@email.com,Santo André,17/09/2024
+269,Ana Santos,587.451.956-09,ana.santos@email.com,São Bernardo do Campo,04/04/2024
+270,Carlos Oliveira,368.691.789-23,carlos.oliveira@email.com,São Bernardo do Campo,05/10/2024
+271,Maria Souza,992.187.031-85,maria.souza@email.com,Osasco,25/08/2024
+272,Camila Martins,905.730.588-22,camila.martins@email.com,Osasco,19/11/2024
+273,Camila Martins,285.376.754-10,camila.martins@email.com,Osasco,16/02/2024
+274,Fernanda Rodrigues,513.664.841-01,fernanda.rodrigues@email.com,Diadema,02/10/2024
+275,Juliana Almeida,207.689.299-29,juliana.almeida@email.com,Diadema,15/08/2024
+276,João Silva,574.889.811-74,joão.silva@email.com,Diadema,21/02/2024
+277,Maria Souza,942.458.195-24,maria.souza@email.com,Santos,19/08/2024
+278,Rafael Lima,703.057.333-56,rafael.lima@email.com,São Caetano do Sul,20/06/2024
+279,Fernanda Rodrigues,293.332.253-63,fernanda.rodrigues@email.com,São Paulo,04/08/2024
+280,Juliana Almeida,790.816.675-86,juliana.almeida@email.com,São Bernardo do Campo,08/01/2024
+281,Fernanda Rodrigues,743.857.947-18,fernanda.rodrigues@email.com,São Bernardo do Campo,12/06/2024
+282,Pedro Costa,674.985.163-18,pedro.costa@email.com,Campinas,20/11/2024
+283,João Silva,992.890.497-72,joão.silva@email.com,Campinas,11/02/2024
+284,Maria Souza,503.149.862-83,maria.souza@email.com,Diadema,28/12/2024
+285,Camila Martins,309.305.767-91,camila.martins@email.com,Campinas,19/02/2024
+286,Carlos Oliveira,611.820.362-91,carlos.oliveira@email.com,Diadema,23/11/2024
+287,Lucas Pereira,921.582.217-69,lucas.pereira@email.com,Santo André,18/05/2024
+288,Lucas Pereira,826.384.109-99,lucas.pereira@email.com,Santo André,22/11/2024
+289,Lucas Pereira,594.285.816-82,lucas.pereira@email.com,São Paulo,10/06/2024
+290,Carlos Oliveira,398.550.448-77,carlos.oliveira@email.com,Campinas,07/08/2024
+291,Ana Santos,314.747.360-72,ana.santos@email.com,São Bernardo do Campo,10/02/2024
+292,Maria Souza,165.564.034-44,maria.souza@email.com,Campinas,05/10/2024
+293,Camila Martins,287.978.687-05,camila.martins@email.com,São Bernardo do Campo,27/03/2024
+294,Camila Martins,161.747.602-87,camila.martins@email.com,Santos,22/06/2024
+295,Ana Santos,742.938.934-89,ana.santos@email.com,Diadema,26/12/2024
+296,Fernanda Rodrigues,840.194.790-28,fernanda.rodrigues@email.com,São Caetano do Sul,26/05/2024
+297,Fernanda Rodrigues,580.779.333-98,fernanda.rodrigues@email.com,Osasco,25/08/2024
+298,Pedro Costa,648.816.248-36,pedro.costa@email.com,Santos,27/03/2024
+299,Ana Santos,950.457.607-92,ana.santos@email.com,São Bernardo do Campo,02/05/2024
+300,Fernanda Rodrigues,609.989.439-50,fernanda.rodrigues@email.com,Santo André,28/12/2024
+301,Rafael Lima,265.406.322-43,rafael.lima@email.com,Diadema,25/02/2024
+302,Carlos Oliveira,713.011.718-53,carlos.oliveira@email.com,São Bernardo do Campo,03/07/2024
+303,Ana Santos,736.372.559-04,ana.santos@email.com,Campinas,14/01/2024
+304,João Silva,804.222.335-45,joão.silva@email.com,Campinas,13/04/2024
+305,Maria Souza,416.750.087-51,maria.souza@email.com,São Paulo,04/06/2024
+306,Juliana Almeida,305.788.231-57,juliana.almeida@email.com,São Bernardo do Campo,10/01/2024
+307,Fernanda Rodrigues,774.547.642-36,fernanda.rodrigues@email.com,Osasco,01/10/2024
+308,Maria Souza,444.413.594-44,maria.souza@email.com,São Caetano do Sul,18/03/2024
+309,Camila Martins,681.013.361-96,camila.martins@email.com,Santo André,08/05/2024
+310,Pedro Costa,148.183.019-57,pedro.costa@email.com,São Caetano do Sul,21/07/2024
+311,Camila Martins,205.532.226-45,camila.martins@email.com,Santo André,20/08/2024
+312,Rafael Lima,959.699.352-04,rafael.lima@email.com,São Caetano do Sul,05/12/2024
+313,Pedro Costa,118.435.670-09,pedro.costa@email.com,Campinas,19/04/2024
+314,Lucas Pereira,214.598.957-58,lucas.pereira@email.com,Campinas,17/02/2024
+315,Rafael Lima,829.643.281-54,rafael.lima@email.com,São Paulo,28/07/2024
+316,Fernanda Rodrigues,960.863.248-57,fernanda.rodrigues@email.com,Santos,09/06/2024
+317,João Silva,575.348.063-43,joão.silva@email.com,São Caetano do Sul,22/12/2024
+318,Maria Souza,906.229.844-93,maria.souza@email.com,Campinas,02/03/2024
+319,Juliana Almeida,552.947.841-29,juliana.almeida@email.com,São Bernardo do Campo,15/11/2024
+320,Fernanda Rodrigues,341.881.212-96,fernanda.rodrigues@email.com,São Bernardo do Campo,23/02/2024
+321,Fernanda Rodrigues,488.135.498-43,fernanda.rodrigues@email.com,São Caetano do Sul,26/01/2024
+322,Ana Santos,180.994.080-42,ana.santos@email.com,Campinas,17/05/2024
+323,Lucas Pereira,767.568.085-21,lucas.pereira@email.com,Diadema,25/01/2024
+324,Ana Santos,584.734.771-97,ana.santos@email.com,São Paulo,11/11/2024
+325,Pedro Costa,674.152.051-59,pedro.costa@email.com,Santos,15/12/2024
+326,Lucas Pereira,752.268.832-64,lucas.pereira@email.com,Osasco,26/06/2024
+327,Rafael Lima,204.131.467-64,rafael.lima@email.com,Santos,27/10/2024
+328,Carlos Oliveira,509.975.003-64,carlos.oliveira@email.com,Campinas,03/02/2024
+329,Juliana Almeida,514.933.321-16,juliana.almeida@email.com,Diadema,20/08/2024
+330,Lucas Pereira,591.512.122-42,lucas.pereira@email.com,Osasco,24/01/2024
+331,Juliana Almeida,462.277.936-03,juliana.almeida@email.com,São Paulo,22/02/2024
+332,Lucas Pereira,802.798.861-75,lucas.pereira@email.com,São Bernardo do Campo,05/01/2024
+333,Camila Martins,161.769.052-49,camila.martins@email.com,São Bernardo do Campo,08/02/2024
+334,Juliana Almeida,630.950.324-76,juliana.almeida@email.com,São Paulo,05/10/2024
+335,Fernanda Rodrigues,613.198.063-03,fernanda.rodrigues@email.com,Campinas,25/08/2024
+336,Maria Souza,296.448.444-63,maria.souza@email.com,Campinas,11/07/2024
+337,Pedro Costa,104.872.581-03,pedro.costa@email.com,São Bernardo do Campo,17/08/2024
+338,Lucas Pereira,869.380.792-21,lucas.pereira@email.com,Santo André,25/05/2024
+339,Pedro Costa,731.533.615-35,pedro.costa@email.com,São Caetano do Sul,10/10/2024
+340,Fernanda Rodrigues,237.446.613-16,fernanda.rodrigues@email.com,São Bernardo do Campo,15/02/2024
+341,Carlos Oliveira,832.933.552-46,carlos.oliveira@email.com,Diadema,28/05/2024
+342,Carlos Oliveira,342.137.372-24,carlos.oliveira@email.com,Campinas,08/09/2024
+343,Maria Souza,400.009.158-63,maria.souza@email.com,São Bernardo do Campo,26/04/2024
+344,Fernanda Rodrigues,573.575.292-99,fernanda.rodrigues@email.com,Campinas,26/08/2024
+345,Rafael Lima,921.617.417-92,rafael.lima@email.com,Santo André,10/02/2024
+346,Lucas Pereira,775.120.311-14,lucas.pereira@email.com,Santos,27/07/2024
+347,Camila Martins,274.966.260-86,camila.martins@email.com,Campinas,03/11/2024
+348,Fernanda Rodrigues,594.666.845-92,fernanda.rodrigues@email.com,São Bernardo do Campo,21/09/2024
+349,Camila Martins,313.299.441-24,camila.martins@email.com,Santos,28/09/2024
+350,João Silva,264.556.982-29,joão.silva@email.com,São Bernardo do Campo,06/05/2024
+351,Carlos Oliveira,431.113.294-04,carlos.oliveira@email.com,Campinas,10/09/2024
+352,Maria Souza,368.461.454-05,maria.souza@email.com,Diadema,21/03/2024
+353,Pedro Costa,856.533.934-01,pedro.costa@email.com,Santo André,21/09/2024
+354,Carlos Oliveira,296.737.269-42,carlos.oliveira@email.com,São Bernardo do Campo,20/11/2024
+355,Camila Martins,912.776.592-80,camila.martins@email.com,São Paulo,03/01/2024
+356,João Silva,999.733.236-17,joão.silva@email.com,Diadema,07/11/2024
+357,Camila Martins,933.936.052-29,camila.martins@email.com,São Paulo,21/08/2024
+358,Rafael Lima,971.434.762-10,rafael.lima@email.com,Diadema,08/08/2024
+359,Lucas Pereira,714.070.108-99,lucas.pereira@email.com,Santo André,02/12/2024
+360,Carlos Oliveira,677.226.660-93,carlos.oliveira@email.com,Osasco,07/08/2024
+361,Juliana Almeida,297.854.551-79,juliana.almeida@email.com,Campinas,11/12/2024
+362,Juliana Almeida,657.288.075-34,juliana.almeida@email.com,São Bernardo do Campo,17/06/2024
+363,Rafael Lima,534.057.294-99,rafael.lima@email.com,São Caetano do Sul,04/08/2024
+364,Pedro Costa,419.957.712-45,pedro.costa@email.com,São Bernardo do Campo,02/02/2024
+365,Pedro Costa,656.000.047-45,pedro.costa@email.com,Santos,28/04/2024
+366,Carlos Oliveira,564.435.337-03,carlos.oliveira@email.com,Campinas,25/04/2024
+367,Carlos Oliveira,723.402.684-91,carlos.oliveira@email.com,Osasco,16/05/2024
+368,João Silva,804.084.390-67,joão.silva@email.com,Osasco,07/04/2024
+369,Camila Martins,158.106.401-85,camila.martins@email.com,São Paulo,16/05/2024
+370,Camila Martins,506.758.608-00,camila.martins@email.com,São Paulo,14/02/2024
+371,Carlos Oliveira,481.498.568-94,carlos.oliveira@email.com,Campinas,12/07/2024
+372,João Silva,160.154.522-79,joão.silva@email.com,São Caetano do Sul,18/06/2024
+373,Pedro Costa,618.554.240-06,pedro.costa@email.com,Osasco,09/09/2024
+374,Camila Martins,945.266.685-37,camila.martins@email.com,Santo André,04/03/2024
+375,Lucas Pereira,571.878.937-07,lucas.pereira@email.com,Campinas,07/03/2024
+376,Camila Martins,637.262.720-97,camila.martins@email.com,São Paulo,02/01/2024
+377,Carlos Oliveira,560.145.266-03,carlos.oliveira@email.com,Osasco,15/09/2024
+378,Carlos Oliveira,293.939.494-62,carlos.oliveira@email.com,Campinas,11/10/2024
+379,Carlos Oliveira,522.736.533-96,carlos.oliveira@email.com,Campinas,27/09/2024
+380,Rafael Lima,767.108.916-06,rafael.lima@email.com,Diadema,27/08/2024
+381,João Silva,545.317.577-03,joão.silva@email.com,Santo André,19/07/2024
+382,Pedro Costa,988.544.708-90,pedro.costa@email.com,São Paulo,16/10/2024
+383,Pedro Costa,906.430.018-39,pedro.costa@email.com,São Caetano do Sul,02/12/2024
+384,Camila Martins,335.383.483-08,camila.martins@email.com,Santos,27/03/2024
+385,Ana Santos,874.450.056-39,ana.santos@email.com,Santo André,01/04/2024
+386,Fernanda Rodrigues,671.818.737-99,fernanda.rodrigues@email.com,São Bernardo do Campo,23/07/2024
+387,Ana Santos,804.820.342-74,ana.santos@email.com,Osasco,24/12/2024
+388,João Silva,302.111.507-29,joão.silva@email.com,São Caetano do Sul,11/09/2024
+389,Fernanda Rodrigues,637.965.147-30,fernanda.rodrigues@email.com,Campinas,15/03/2024
+390,Rafael Lima,844.847.273-74,rafael.lima@email.com,Campinas,25/11/2024
+391,Pedro Costa,770.447.684-07,pedro.costa@email.com,São Caetano do Sul,09/04/2024
+392,Rafael Lima,413.468.152-20,rafael.lima@email.com,Diadema,23/05/2024
+393,Ana Santos,550.499.252-08,ana.santos@email.com,Osasco,18/06/2024
+394,Pedro Costa,241.209.478-47,pedro.costa@email.com,Santos,27/07/2024
+395,Juliana Almeida,306.356.678-97,juliana.almeida@email.com,Diadema,10/01/2024
+396,Maria Souza,977.993.368-44,maria.souza@email.com,Diadema,16/12/2024
+397,Ana Santos,466.729.129-30,ana.santos@email.com,Diadema,04/03/2024
+398,Camila Martins,904.915.138-31,camila.martins@email.com,São Caetano do Sul,02/04/2024
+399,Rafael Lima,968.685.982-65,rafael.lima@email.com,São Caetano do Sul,04/01/2024
+400,Lucas Pereira,249.138.612-22,lucas.pereira@email.com,São Bernardo do Campo,18/01/2024
+401,Carlos Oliveira,976.470.001-22,carlos.oliveira@email.com,Osasco,21/08/2024
+402,Ana Santos,541.833.810-16,ana.santos@email.com,Diadema,02/11/2024
+403,Maria Souza,901.110.130-41,maria.souza@email.com,São Caetano do Sul,24/09/2024
+404,João Silva,665.864.723-51,joão.silva@email.com,São Bernardo do Campo,27/01/2024
+405,Lucas Pereira,778.087.745-88,lucas.pereira@email.com,São Bernardo do Campo,28/12/2024
+406,Pedro Costa,180.605.505-50,pedro.costa@email.com,São Paulo,19/05/2024
+407,Camila Martins,571.715.995-60,camila.martins@email.com,Diadema,21/08/2024
+408,Rafael Lima,766.764.403-85,rafael.lima@email.com,São Bernardo do Campo,15/09/2024
+409,Pedro Costa,534.334.871-13,pedro.costa@email.com,São Bernardo do Campo,15/12/2024
+410,Pedro Costa,345.611.921-59,pedro.costa@email.com,São Paulo,11/12/2024
+411,Pedro Costa,390.223.084-26,pedro.costa@email.com,São Bernardo do Campo,28/10/2024
+412,Lucas Pereira,693.864.691-11,lucas.pereira@email.com,Campinas,13/02/2024
+413,Maria Souza,750.284.328-51,maria.souza@email.com,Campinas,01/04/2024
+414,Pedro Costa,417.122.105-47,pedro.costa@email.com,Osasco,11/05/2024
+415,Pedro Costa,124.604.894-91,pedro.costa@email.com,Diadema,12/11/2024
+416,Ana Santos,706.373.140-02,ana.santos@email.com,Diadema,13/03/2024
+417,Rafael Lima,519.611.478-00,rafael.lima@email.com,Santo André,10/11/2024
+418,Juliana Almeida,427.045.672-72,juliana.almeida@email.com,São Caetano do Sul,16/03/2024
+419,Carlos Oliveira,958.514.053-29,carlos.oliveira@email.com,Campinas,23/07/2024
+420,Rafael Lima,783.449.422-35,rafael.lima@email.com,São Caetano do Sul,22/04/2024
+421,Camila Martins,790.711.070-24,camila.martins@email.com,Osasco,23/09/2024
+422,Juliana Almeida,253.079.881-08,juliana.almeida@email.com,São Paulo,17/09/2024
+423,Ana Santos,854.741.789-95,ana.santos@email.com,São Bernardo do Campo,11/03/2024
+424,Rafael Lima,247.825.926-27,rafael.lima@email.com,São Caetano do Sul,19/12/2024
+425,Fernanda Rodrigues,723.215.875-90,fernanda.rodrigues@email.com,São Paulo,05/08/2024
+426,Rafael Lima,719.137.771-02,rafael.lima@email.com,São Paulo,15/09/2024
+427,Pedro Costa,131.064.643-19,pedro.costa@email.com,Santos,27/05/2024
+428,João Silva,389.730.096-57,joão.silva@email.com,Santo André,14/01/2024
+429,Juliana Almeida,215.980.647-55,juliana.almeida@email.com,São Paulo,16/02/2024
+430,João Silva,670.676.200-49,joão.silva@email.com,São Bernardo do Campo,25/03/2024
+431,Lucas Pereira,653.678.562-50,lucas.pereira@email.com,Osasco,13/07/2024
+432,Maria Souza,294.961.461-84,maria.souza@email.com,Campinas,06/02/2024
+433,Rafael Lima,804.076.506-96,rafael.lima@email.com,São Bernardo do Campo,08/12/2024
+434,João Silva,132.477.658-87,joão.silva@email.com,Diadema,22/08/2024
+435,Rafael Lima,848.360.600-49,rafael.lima@email.com,Santos,08/04/2024
+436,Fernanda Rodrigues,286.666.139-36,fernanda.rodrigues@email.com,Diadema,24/04/2024
+437,Maria Souza,686.701.023-35,maria.souza@email.com,São Paulo,07/04/2024
+438,Maria Souza,920.377.266-99,maria.souza@email.com,São Paulo,20/08/2024
+439,João Silva,617.296.028-66,joão.silva@email.com,Osasco,18/04/2024
+440,Ana Santos,176.281.351-72,ana.santos@email.com,São Bernardo do Campo,10/09/2024
+441,Ana Santos,904.512.550-04,ana.santos@email.com,Campinas,20/10/2024
+442,Juliana Almeida,496.722.007-45,juliana.almeida@email.com,São Bernardo do Campo,17/11/2024
+443,Ana Santos,504.309.332-25,ana.santos@email.com,Diadema,18/01/2024
+444,Camila Martins,353.900.327-37,camila.martins@email.com,Santos,16/09/2024
+445,João Silva,614.205.950-35,joão.silva@email.com,Santos,11/09/2024
+446,Lucas Pereira,289.333.290-06,lucas.pereira@email.com,Diadema,06/07/2024
+447,Rafael Lima,420.985.189-22,rafael.lima@email.com,São Caetano do Sul,28/05/2024
+448,Carlos Oliveira,735.903.244-14,carlos.oliveira@email.com,São Paulo,14/09/2024
+449,Lucas Pereira,811.130.051-21,lucas.pereira@email.com,São Bernardo do Campo,08/07/2024
+450,Pedro Costa,538.229.975-77,pedro.costa@email.com,Santo André,28/08/2024
+451,Juliana Almeida,834.115.738-59,juliana.almeida@email.com,São Caetano do Sul,09/01/2024
+452,Lucas Pereira,944.977.774-76,lucas.pereira@email.com,São Paulo,07/02/2024
+453,Camila Martins,381.700.483-18,camila.martins@email.com,Osasco,28/04/2024
+454,Juliana Almeida,139.041.001-95,juliana.almeida@email.com,São Caetano do Sul,24/04/2024
+455,Maria Souza,776.643.353-00,maria.souza@email.com,São Caetano do Sul,20/12/2024
+456,Ana Santos,840.423.626-68,ana.santos@email.com,Campinas,13/05/2024
+457,Fernanda Rodrigues,981.913.557-66,fernanda.rodrigues@email.com,Campinas,09/05/2024
+458,Juliana Almeida,722.653.318-52,juliana.almeida@email.com,Santo André,16/12/2024
+459,Juliana Almeida,396.968.233-87,juliana.almeida@email.com,Campinas,14/06/2024
+460,João Silva,106.267.332-82,joão.silva@email.com,Diadema,19/09/2024
+461,Camila Martins,689.270.025-73,camila.martins@email.com,Diadema,07/03/2024
+462,Juliana Almeida,625.275.300-19,juliana.almeida@email.com,São Caetano do Sul,18/08/2024
+463,Juliana Almeida,779.532.199-42,juliana.almeida@email.com,Osasco,06/08/2024
+464,Juliana Almeida,279.068.598-98,juliana.almeida@email.com,Osasco,18/03/2024
+465,João Silva,165.452.914-37,joão.silva@email.com,Santo André,02/11/2024
+466,João Silva,289.510.803-02,joão.silva@email.com,São Caetano do Sul,23/02/2024
+467,Carlos Oliveira,358.090.660-65,carlos.oliveira@email.com,Osasco,02/06/2024
+468,Camila Martins,956.154.645-48,camila.martins@email.com,Osasco,16/11/2024
+469,João Silva,830.428.438-81,joão.silva@email.com,Santos,01/01/2024
+470,Rafael Lima,474.615.325-02,rafael.lima@email.com,Diadema,17/01/2024
+471,Lucas Pereira,353.822.833-28,lucas.pereira@email.com,Santo André,17/02/2024
+472,Carlos Oliveira,368.047.570-45,carlos.oliveira@email.com,Diadema,09/06/2024
+473,Lucas Pereira,575.840.253-43,lucas.pereira@email.com,Santos,19/08/2024
+474,Ana Santos,496.247.551-99,ana.santos@email.com,Santo André,28/11/2024
+475,João Silva,619.411.891-53,joão.silva@email.com,Santos,18/07/2024
+476,Fernanda Rodrigues,961.403.577-38,fernanda.rodrigues@email.com,São Paulo,06/12/2024
+477,Maria Souza,977.629.736-86,maria.souza@email.com,Campinas,28/10/2024
+478,Maria Souza,825.625.757-13,maria.souza@email.com,São Paulo,07/04/2024
+479,Camila Martins,464.019.965-54,camila.martins@email.com,São Paulo,22/02/2024
+480,Pedro Costa,868.769.581-64,pedro.costa@email.com,São Paulo,28/03/2024
+481,Juliana Almeida,881.991.486-66,juliana.almeida@email.com,São Bernardo do Campo,27/12/2024
+482,Lucas Pereira,225.794.221-00,lucas.pereira@email.com,Diadema,19/03/2024
+483,Ana Santos,651.879.349-76,ana.santos@email.com,Campinas,25/07/2024
+484,Carlos Oliveira,790.563.211-01,carlos.oliveira@email.com,Campinas,04/01/2024
+485,Lucas Pereira,532.761.688-48,lucas.pereira@email.com,Santos,01/06/2024
+486,Pedro Costa,763.596.077-81,pedro.costa@email.com,São Caetano do Sul,18/06/2024
+487,Lucas Pereira,333.296.092-84,lucas.pereira@email.com,Santos,25/02/2024
+488,Camila Martins,189.056.433-97,camila.martins@email.com,Diadema,13/03/2024
+489,Carlos Oliveira,647.164.028-46,carlos.oliveira@email.com,Campinas,04/06/2024
+490,Maria Souza,714.535.407-92,maria.souza@email.com,Campinas,04/05/2024
+491,Carlos Oliveira,318.497.752-41,carlos.oliveira@email.com,Santos,18/08/2024
+492,Rafael Lima,680.354.915-24,rafael.lima@email.com,Santo André,03/01/2024
+493,Juliana Almeida,209.702.905-40,juliana.almeida@email.com,Campinas,01/07/2024
+494,Pedro Costa,633.169.082-59,pedro.costa@email.com,Santo André,18/12/2024
+495,Ana Santos,811.760.280-69,ana.santos@email.com,São Bernardo do Campo,13/11/2024
+496,Carlos Oliveira,449.560.518-95,carlos.oliveira@email.com,Diadema,16/05/2024
+497,Carlos Oliveira,317.465.668-35,carlos.oliveira@email.com,Santos,14/05/2024
+498,Pedro Costa,575.750.150-01,pedro.costa@email.com,Diadema,24/04/2024
+499,Fernanda Rodrigues,941.547.576-78,fernanda.rodrigues@email.com,São Caetano do Sul,04/08/2024
+500,Carlos Oliveira,113.084.961-51,carlos.oliveira@email.com,Santos,27/06/2024
+501,Camila Martins,566.527.865-26,camila.martins@email.com,Osasco,14/06/2024
+502,Camila Martins,492.393.558-27,camila.martins@email.com,Campinas,23/10/2024
+503,Ana Santos,550.070.041-37,ana.santos@email.com,São Bernardo do Campo,11/07/2024
+504,Pedro Costa,771.428.048-15,pedro.costa@email.com,São Caetano do Sul,13/06/2024
+505,Pedro Costa,589.322.837-95,pedro.costa@email.com,Santo André,07/10/2024
+506,Camila Martins,872.976.642-71,camila.martins@email.com,São Bernardo do Campo,25/11/2024
+507,Rafael Lima,732.528.997-70,rafael.lima@email.com,São Caetano do Sul,26/08/2024
+508,Pedro Costa,692.492.698-10,pedro.costa@email.com,Osasco,21/03/2024
+509,Pedro Costa,453.992.113-67,pedro.costa@email.com,São Bernardo do Campo,14/12/2024
+510,Lucas Pereira,704.472.199-69,lucas.pereira@email.com,Osasco,13/10/2024
+511,Rafael Lima,688.054.418-03,rafael.lima@email.com,São Paulo,23/06/2024
+512,Rafael Lima,984.497.831-38,rafael.lima@email.com,Santo André,25/02/2024
+513,Ana Santos,329.995.877-57,ana.santos@email.com,São Paulo,21/10/2024
+514,Lucas Pereira,692.543.612-22,lucas.pereira@email.com,Santo André,04/01/2024
+515,Pedro Costa,796.729.641-27,pedro.costa@email.com,São Caetano do Sul,12/08/2024
+516,Lucas Pereira,902.280.799-08,lucas.pereira@email.com,São Bernardo do Campo,01/06/2024
+517,Fernanda Rodrigues,491.037.417-45,fernanda.rodrigues@email.com,Santos,04/02/2024
+518,Carlos Oliveira,501.507.658-31,carlos.oliveira@email.com,Campinas,26/08/2024
+519,Ana Santos,766.626.805-81,ana.santos@email.com,Campinas,04/08/2024
+520,Fernanda Rodrigues,548.929.188-71,fernanda.rodrigues@email.com,Santo André,02/05/2024
+521,Maria Souza,973.728.544-93,maria.souza@email.com,Santo André,26/11/2024
+522,Carlos Oliveira,432.451.492-10,carlos.oliveira@email.com,São Bernardo do Campo,06/09/2024
+523,Juliana Almeida,682.391.077-95,juliana.almeida@email.com,Osasco,26/04/2024
+524,Lucas Pereira,341.796.364-52,lucas.pereira@email.com,São Bernardo do Campo,22/11/2024
+525,Lucas Pereira,116.990.133-95,lucas.pereira@email.com,São Caetano do Sul,19/08/2024
+526,Lucas Pereira,116.700.369-82,lucas.pereira@email.com,São Caetano do Sul,09/04/2024
+527,Maria Souza,253.645.922-73,maria.souza@email.com,São Bernardo do Campo,11/06/2024
+528,Ana Santos,248.500.659-90,ana.santos@email.com,Diadema,28/11/2024
+529,Fernanda Rodrigues,556.946.234-30,fernanda.rodrigues@email.com,Santos,13/10/2024
+530,Camila Martins,577.352.632-90,camila.martins@email.com,Campinas,20/08/2024
+531,Carlos Oliveira,899.486.022-25,carlos.oliveira@email.com,Santo André,05/11/2024
+532,Juliana Almeida,405.709.830-37,juliana.almeida@email.com,Diadema,06/02/2024
+533,Juliana Almeida,301.581.564-72,juliana.almeida@email.com,Santos,20/07/2024
+534,Carlos Oliveira,640.083.807-09,carlos.oliveira@email.com,Santos,16/03/2024
+535,Rafael Lima,357.693.723-67,rafael.lima@email.com,São Bernardo do Campo,10/08/2024
+536,Carlos Oliveira,537.532.552-32,carlos.oliveira@email.com,Osasco,02/10/2024
+537,Juliana Almeida,140.881.300-61,juliana.almeida@email.com,Osasco,07/03/2024
+538,Lucas Pereira,871.540.584-39,lucas.pereira@email.com,Osasco,22/07/2024
+539,Fernanda Rodrigues,737.368.499-67,fernanda.rodrigues@email.com,Osasco,03/03/2024
+540,Camila Martins,433.334.843-74,camila.martins@email.com,Diadema,09/01/2024
+541,Ana Santos,509.637.170-99,ana.santos@email.com,São Bernardo do Campo,19/08/2024
+542,Fernanda Rodrigues,810.805.327-09,fernanda.rodrigues@email.com,Santo André,04/10/2024
+543,Pedro Costa,863.435.291-39,pedro.costa@email.com,Campinas,27/09/2024
+544,João Silva,849.100.990-58,joão.silva@email.com,São Caetano do Sul,04/07/2024
+545,Ana Santos,185.869.825-45,ana.santos@email.com,Osasco,12/05/2024
+546,Maria Souza,271.539.176-45,maria.souza@email.com,São Caetano do Sul,26/04/2024
+547,Camila Martins,602.044.464-76,camila.martins@email.com,Santos,20/03/2024
+548,Carlos Oliveira,391.407.059-14,carlos.oliveira@email.com,São Caetano do Sul,19/01/2024
+549,Juliana Almeida,466.458.669-78,juliana.almeida@email.com,São Bernardo do Campo,23/06/2024
+550,Pedro Costa,885.520.881-32,pedro.costa@email.com,Diadema,22/09/2024
+551,Maria Souza,299.969.222-54,maria.souza@email.com,São Bernardo do Campo,05/04/2024
+552,Juliana Almeida,436.230.733-28,juliana.almeida@email.com,Santos,05/08/2024
+553,Camila Martins,470.758.841-94,camila.martins@email.com,Santos,15/07/2024
+554,Maria Souza,619.394.466-17,maria.souza@email.com,Diadema,12/12/2024
+555,Fernanda Rodrigues,785.058.196-27,fernanda.rodrigues@email.com,Campinas,01/10/2024
+556,Maria Souza,978.683.704-74,maria.souza@email.com,Campinas,26/02/2024
+557,Rafael Lima,374.779.804-39,rafael.lima@email.com,Santos,16/04/2024
+558,Pedro Costa,541.676.959-67,pedro.costa@email.com,São Bernardo do Campo,28/10/2024
+559,Fernanda Rodrigues,563.354.113-89,fernanda.rodrigues@email.com,São Paulo,04/01/2024
+560,Fernanda Rodrigues,229.548.297-70,fernanda.rodrigues@email.com,São Bernardo do Campo,15/08/2024
+561,João Silva,376.071.877-89,joão.silva@email.com,São Bernardo do Campo,10/11/2024
+562,Carlos Oliveira,481.246.853-85,carlos.oliveira@email.com,Santo André,12/11/2024
+563,Pedro Costa,575.986.337-40,pedro.costa@email.com,São Bernardo do Campo,13/01/2024
+564,Pedro Costa,433.084.684-81,pedro.costa@email.com,Santos,03/11/2024
+565,Maria Souza,357.744.694-33,maria.souza@email.com,Osasco,05/02/2024
+566,Camila Martins,796.909.590-89,camila.martins@email.com,Osasco,01/01/2024
+567,Juliana Almeida,263.943.584-53,juliana.almeida@email.com,Santos,05/12/2024
+568,Fernanda Rodrigues,403.689.763-51,fernanda.rodrigues@email.com,Santos,24/02/2024
+569,Maria Souza,533.929.201-89,maria.souza@email.com,Campinas,05/05/2024
+570,Lucas Pereira,964.712.046-08,lucas.pereira@email.com,São Bernardo do Campo,17/02/2024
+571,Camila Martins,916.407.773-47,camila.martins@email.com,São Bernardo do Campo,12/08/2024
+572,Ana Santos,933.726.591-53,ana.santos@email.com,Osasco,03/04/2024
+573,Maria Souza,878.383.675-58,maria.souza@email.com,Santos,14/06/2024
+574,Juliana Almeida,305.775.175-71,juliana.almeida@email.com,São Caetano do Sul,21/05/2024
+575,Maria Souza,840.803.132-82,maria.souza@email.com,Diadema,01/12/2024
+576,Pedro Costa,796.018.593-81,pedro.costa@email.com,São Caetano do Sul,13/12/2024
+577,Pedro Costa,170.702.453-44,pedro.costa@email.com,São Caetano do Sul,13/08/2024
+578,Maria Souza,754.599.476-86,maria.souza@email.com,Santo André,01/09/2024
+579,Juliana Almeida,569.608.477-30,juliana.almeida@email.com,São Bernardo do Campo,28/07/2024
+580,Camila Martins,590.522.353-75,camila.martins@email.com,São Bernardo do Campo,25/08/2024
+581,Maria Souza,873.810.917-52,maria.souza@email.com,Santo André,09/01/2024
+582,Ana Santos,649.295.822-76,ana.santos@email.com,Diadema,23/11/2024
+583,Rafael Lima,691.292.872-20,rafael.lima@email.com,Santos,13/12/2024
+584,Maria Souza,857.655.307-29,maria.souza@email.com,São Bernardo do Campo,03/05/2024
+585,Pedro Costa,790.588.717-49,pedro.costa@email.com,São Caetano do Sul,18/03/2024
+586,Juliana Almeida,889.875.903-50,juliana.almeida@email.com,Santo André,23/05/2024
+587,Lucas Pereira,437.003.239-59,lucas.pereira@email.com,São Paulo,03/04/2024
+588,Lucas Pereira,706.277.007-32,lucas.pereira@email.com,São Paulo,22/05/2024
+589,Carlos Oliveira,105.130.038-15,carlos.oliveira@email.com,São Bernardo do Campo,01/12/2024
+590,Carlos Oliveira,802.085.639-26,carlos.oliveira@email.com,Diadema,12/03/2024
+591,Carlos Oliveira,481.112.207-66,carlos.oliveira@email.com,Santo André,11/01/2024
+592,Lucas Pereira,798.876.245-05,lucas.pereira@email.com,Santo André,23/05/2024
+593,Camila Martins,212.851.675-90,camila.martins@email.com,Osasco,17/08/2024
+594,Juliana Almeida,746.626.186-04,juliana.almeida@email.com,São Bernardo do Campo,06/06/2024
+595,Pedro Costa,262.063.244-72,pedro.costa@email.com,Santo André,24/04/2024
+596,Rafael Lima,143.059.989-63,rafael.lima@email.com,São Paulo,02/04/2024
+597,Fernanda Rodrigues,631.028.747-03,fernanda.rodrigues@email.com,São Bernardo do Campo,28/03/2024
+598,João Silva,990.804.814-27,joão.silva@email.com,Santos,11/04/2024
+599,Ana Santos,560.432.860-24,ana.santos@email.com,Diadema,19/02/2024
+600,Juliana Almeida,792.322.998-30,juliana.almeida@email.com,São Paulo,08/03/2024
+601,Rafael Lima,185.101.077-47,rafael.lima@email.com,Santos,15/02/2024
+602,Pedro Costa,542.841.097-46,pedro.costa@email.com,Santo André,15/09/2024
+603,João Silva,373.543.003-62,joão.silva@email.com,Diadema,26/10/2024
+604,Pedro Costa,947.808.332-84,pedro.costa@email.com,São Caetano do Sul,12/08/2024
+605,Camila Martins,785.986.066-68,camila.martins@email.com,São Caetano do Sul,18/12/2024
+606,Ana Santos,106.466.776-86,ana.santos@email.com,Santos,08/01/2024
+607,Rafael Lima,973.872.243-80,rafael.lima@email.com,São Paulo,01/06/2024
+608,Lucas Pereira,517.780.704-89,lucas.pereira@email.com,Santo André,17/04/2024
+609,Ana Santos,762.276.047-37,ana.santos@email.com,São Paulo,23/03/2024
+610,Pedro Costa,146.945.136-80,pedro.costa@email.com,São Caetano do Sul,14/09/2024
+611,Juliana Almeida,218.021.380-71,juliana.almeida@email.com,Santo André,05/09/2024
+612,Lucas Pereira,876.308.057-98,lucas.pereira@email.com,São Paulo,22/07/2024
+613,Carlos Oliveira,496.716.325-22,carlos.oliveira@email.com,Diadema,26/06/2024
+614,Lucas Pereira,561.079.894-98,lucas.pereira@email.com,Campinas,09/08/2024
+615,Ana Santos,280.505.132-86,ana.santos@email.com,Santo André,04/03/2024
+616,Carlos Oliveira,720.604.166-12,carlos.oliveira@email.com,Campinas,04/07/2024
+617,Rafael Lima,390.783.749-20,rafael.lima@email.com,Osasco,15/05/2024
+618,Pedro Costa,265.462.850-02,pedro.costa@email.com,Santo André,26/03/2024
+619,Pedro Costa,945.974.467-64,pedro.costa@email.com,São Paulo,27/04/2024
+620,Juliana Almeida,192.269.804-68,juliana.almeida@email.com,São Caetano do Sul,13/06/2024
+621,Rafael Lima,456.432.494-66,rafael.lima@email.com,São Bernardo do Campo,13/01/2024
+622,Fernanda Rodrigues,424.275.223-14,fernanda.rodrigues@email.com,Santo André,04/08/2024
+623,Carlos Oliveira,105.216.377-79,carlos.oliveira@email.com,São Paulo,05/04/2024
+624,Ana Santos,650.772.579-28,ana.santos@email.com,Campinas,21/11/2024
+625,Maria Souza,898.104.729-94,maria.souza@email.com,Diadema,01/02/2024
+626,Maria Souza,729.040.347-43,maria.souza@email.com,São Bernardo do Campo,28/02/2024
+627,Juliana Almeida,148.212.196-02,juliana.almeida@email.com,Osasco,06/01/2024
+628,Camila Martins,646.510.143-66,camila.martins@email.com,Osasco,13/01/2024
+629,Lucas Pereira,579.868.415-70,lucas.pereira@email.com,São Caetano do Sul,09/03/2024
+630,Pedro Costa,149.333.343-43,pedro.costa@email.com,São Caetano do Sul,10/11/2024
+631,Fernanda Rodrigues,767.896.992-41,fernanda.rodrigues@email.com,São Paulo,09/02/2024
+632,Lucas Pereira,664.239.990-54,lucas.pereira@email.com,São Caetano do Sul,26/11/2024
+633,Rafael Lima,969.694.273-72,rafael.lima@email.com,São Paulo,26/07/2024
+634,Juliana Almeida,850.746.730-08,juliana.almeida@email.com,Osasco,19/06/2024
+635,Rafael Lima,629.208.880-19,rafael.lima@email.com,Diadema,01/03/2024
+636,Juliana Almeida,426.293.662-83,juliana.almeida@email.com,São Paulo,02/05/2024
+637,Fernanda Rodrigues,595.185.346-37,fernanda.rodrigues@email.com,São Caetano do Sul,04/03/2024
+638,Ana Santos,428.859.822-74,ana.santos@email.com,Diadema,27/09/2024
+639,João Silva,441.355.517-41,joão.silva@email.com,Santos,27/06/2024
+640,Carlos Oliveira,408.211.164-04,carlos.oliveira@email.com,Campinas,23/12/2024
+641,Juliana Almeida,912.349.255-38,juliana.almeida@email.com,São Paulo,23/12/2024
+642,Juliana Almeida,913.791.450-93,juliana.almeida@email.com,São Bernardo do Campo,07/10/2024
+643,Fernanda Rodrigues,509.831.131-07,fernanda.rodrigues@email.com,São Bernardo do Campo,02/08/2024
+644,Maria Souza,403.060.107-19,maria.souza@email.com,São Caetano do Sul,17/01/2024
+645,Fernanda Rodrigues,529.526.085-49,fernanda.rodrigues@email.com,São Caetano do Sul,11/03/2024
+646,Carlos Oliveira,156.847.706-81,carlos.oliveira@email.com,São Paulo,19/03/2024
+647,Carlos Oliveira,262.107.807-01,carlos.oliveira@email.com,Campinas,12/02/2024
+648,Lucas Pereira,254.018.243-09,lucas.pereira@email.com,Campinas,11/05/2024
+649,Carlos Oliveira,356.661.261-54,carlos.oliveira@email.com,Santos,16/11/2024
+650,Juliana Almeida,871.751.630-92,juliana.almeida@email.com,Campinas,22/04/2024
+651,Camila Martins,349.728.908-08,camila.martins@email.com,Santos,24/05/2024
+652,Pedro Costa,320.217.935-67,pedro.costa@email.com,São Paulo,19/12/2024
+653,Lucas Pereira,167.322.871-96,lucas.pereira@email.com,São Bernardo do Campo,11/10/2024
+654,Camila Martins,968.480.837-93,camila.martins@email.com,Santo André,05/08/2024
+655,Juliana Almeida,217.911.598-34,juliana.almeida@email.com,São Caetano do Sul,11/06/2024
+656,Carlos Oliveira,227.263.300-86,carlos.oliveira@email.com,Campinas,01/08/2024
+657,Pedro Costa,409.653.582-16,pedro.costa@email.com,Santo André,09/06/2024
+658,Maria Souza,130.941.528-11,maria.souza@email.com,São Paulo,15/07/2024
+659,Lucas Pereira,356.370.971-51,lucas.pereira@email.com,Santos,13/08/2024
+660,Juliana Almeida,638.847.626-26,juliana.almeida@email.com,Santo André,26/08/2024
+661,Camila Martins,430.161.025-44,camila.martins@email.com,São Bernardo do Campo,03/08/2024
+662,João Silva,112.666.228-51,joão.silva@email.com,Campinas,04/05/2024
+663,Maria Souza,329.428.915-43,maria.souza@email.com,Santos,24/03/2024
+664,Maria Souza,533.495.545-31,maria.souza@email.com,Osasco,01/12/2024
+665,Lucas Pereira,999.471.045-81,lucas.pereira@email.com,São Bernardo do Campo,14/10/2024
+666,Carlos Oliveira,231.149.220-49,carlos.oliveira@email.com,Campinas,07/04/2024
+667,Lucas Pereira,860.088.810-76,lucas.pereira@email.com,Diadema,10/11/2024
+668,Pedro Costa,239.051.640-11,pedro.costa@email.com,São Paulo,19/07/2024
+669,Rafael Lima,780.316.570-57,rafael.lima@email.com,São Bernardo do Campo,12/01/2024
+670,João Silva,204.264.882-13,joão.silva@email.com,Diadema,21/11/2024
+671,Camila Martins,378.327.985-29,camila.martins@email.com,Santo André,07/01/2024
+672,Carlos Oliveira,513.957.136-65,carlos.oliveira@email.com,Santo André,28/08/2024
+673,Maria Souza,761.316.187-07,maria.souza@email.com,Osasco,09/11/2024
+674,Maria Souza,857.712.391-36,maria.souza@email.com,Santos,12/03/2024
+675,Lucas Pereira,330.614.045-61,lucas.pereira@email.com,Osasco,09/01/2024
+676,Fernanda Rodrigues,463.571.470-99,fernanda.rodrigues@email.com,São Caetano do Sul,19/05/2024
+677,João Silva,190.052.692-02,joão.silva@email.com,Campinas,14/09/2024
+678,Camila Martins,839.916.038-88,camila.martins@email.com,São Paulo,27/07/2024
+679,Rafael Lima,893.487.665-59,rafael.lima@email.com,São Caetano do Sul,10/08/2024
+680,Maria Souza,788.686.344-81,maria.souza@email.com,São Bernardo do Campo,25/02/2024
+681,Fernanda Rodrigues,357.026.648-29,fernanda.rodrigues@email.com,São Caetano do Sul,05/04/2024
+682,João Silva,204.083.159-48,joão.silva@email.com,Santos,27/04/2024
+683,Carlos Oliveira,951.868.457-24,carlos.oliveira@email.com,Diadema,24/06/2024
+684,Maria Souza,619.133.875-83,maria.souza@email.com,Santos,11/09/2024
+685,Pedro Costa,723.615.858-76,pedro.costa@email.com,São Paulo,20/12/2024
+686,Camila Martins,246.870.436-81,camila.martins@email.com,Santos,05/03/2024
+687,Camila Martins,898.345.692-15,camila.martins@email.com,Santo André,19/02/2024
+688,Maria Souza,520.294.574-41,maria.souza@email.com,Campinas,09/07/2024
+689,Lucas Pereira,772.368.010-85,lucas.pereira@email.com,Osasco,06/01/2024
+690,Pedro Costa,289.106.291-80,pedro.costa@email.com,Santos,13/01/2024
+691,Juliana Almeida,430.305.050-80,juliana.almeida@email.com,São Paulo,16/12/2024
+692,Pedro Costa,610.973.606-17,pedro.costa@email.com,São Paulo,27/06/2024
+693,Pedro Costa,456.952.554-48,pedro.costa@email.com,Osasco,22/12/2024
+694,Maria Souza,281.589.388-21,maria.souza@email.com,Diadema,15/12/2024
+695,Juliana Almeida,933.944.038-61,juliana.almeida@email.com,Santo André,15/04/2024
+696,Ana Santos,789.608.789-10,ana.santos@email.com,São Bernardo do Campo,10/02/2024
+697,Rafael Lima,289.123.951-92,rafael.lima@email.com,São Paulo,07/03/2024
+698,Ana Santos,178.897.547-81,ana.santos@email.com,São Caetano do Sul,15/01/2024
+699,João Silva,611.875.536-92,joão.silva@email.com,São Caetano do Sul,12/05/2024
+700,Fernanda Rodrigues,637.091.088-23,fernanda.rodrigues@email.com,Santo André,01/11/2024
+701,Ana Santos,760.242.419-97,ana.santos@email.com,Osasco,28/03/2024
+702,Fernanda Rodrigues,855.350.755-19,fernanda.rodrigues@email.com,Campinas,06/06/2024
+703,Pedro Costa,215.485.251-42,pedro.costa@email.com,Diadema,13/01/2024
+704,João Silva,399.140.933-59,joão.silva@email.com,São Caetano do Sul,08/11/2024
+705,Ana Santos,970.550.510-83,ana.santos@email.com,Santos,01/09/2024
+706,João Silva,964.676.306-01,joão.silva@email.com,São Bernardo do Campo,26/10/2024
+707,João Silva,453.208.233-30,joão.silva@email.com,Diadema,23/12/2024
+708,Pedro Costa,716.272.367-42,pedro.costa@email.com,Diadema,15/04/2024
+709,Pedro Costa,816.280.120-68,pedro.costa@email.com,Santos,04/10/2024
+710,João Silva,846.217.486-38,joão.silva@email.com,Diadema,22/05/2024
+711,Maria Souza,206.589.853-74,maria.souza@email.com,Campinas,21/05/2024
+712,Juliana Almeida,480.598.166-15,juliana.almeida@email.com,Diadema,23/11/2024
+713,Pedro Costa,279.888.695-91,pedro.costa@email.com,São Caetano do Sul,26/01/2024
+714,Camila Martins,960.086.754-62,camila.martins@email.com,Osasco,09/05/2024
+715,Lucas Pereira,632.773.465-69,lucas.pereira@email.com,São Paulo,23/10/2024
+716,Camila Martins,392.745.602-29,camila.martins@email.com,Campinas,23/12/2024
+717,Ana Santos,859.621.578-85,ana.santos@email.com,Osasco,12/11/2024
+718,Rafael Lima,338.724.935-94,rafael.lima@email.com,Diadema,16/02/2024
+719,Carlos Oliveira,475.419.607-98,carlos.oliveira@email.com,São Bernardo do Campo,11/11/2024
+720,Maria Souza,581.992.118-15,maria.souza@email.com,São Caetano do Sul,28/12/2024
+721,Pedro Costa,567.586.370-20,pedro.costa@email.com,Campinas,19/05/2024
+722,Pedro Costa,749.303.770-09,pedro.costa@email.com,São Paulo,19/11/2024
+723,Camila Martins,956.601.204-72,camila.martins@email.com,Santo André,07/08/2024
+724,Rafael Lima,644.631.821-84,rafael.lima@email.com,Diadema,02/07/2024
+725,Carlos Oliveira,538.099.402-74,carlos.oliveira@email.com,Santos,15/10/2024
+726,Carlos Oliveira,345.486.091-03,carlos.oliveira@email.com,Santo André,11/08/2024
+727,Carlos Oliveira,972.454.490-96,carlos.oliveira@email.com,São Paulo,15/01/2024
+728,Pedro Costa,347.971.752-36,pedro.costa@email.com,São Bernardo do Campo,26/08/2024
+729,Maria Souza,921.601.729-86,maria.souza@email.com,Santos,14/11/2024
+730,Lucas Pereira,635.900.261-20,lucas.pereira@email.com,São Paulo,18/01/2024
+731,Ana Santos,603.827.970-81,ana.santos@email.com,São Paulo,25/06/2024
+732,Rafael Lima,108.185.207-66,rafael.lima@email.com,São Paulo,24/11/2024
+733,Ana Santos,610.112.627-44,ana.santos@email.com,Diadema,04/03/2024
+734,Lucas Pereira,894.712.250-34,lucas.pereira@email.com,Diadema,03/03/2024
+735,João Silva,713.786.380-15,joão.silva@email.com,Campinas,22/07/2024
+736,Carlos Oliveira,782.959.232-80,carlos.oliveira@email.com,Campinas,06/04/2024
+737,Lucas Pereira,401.469.111-89,lucas.pereira@email.com,São Caetano do Sul,05/12/2024
+738,Ana Santos,131.528.351-01,ana.santos@email.com,São Bernardo do Campo,12/02/2024
+739,João Silva,471.098.964-92,joão.silva@email.com,São Paulo,02/10/2024
+740,Maria Souza,143.797.575-66,maria.souza@email.com,Santo André,15/07/2024
+741,Lucas Pereira,835.452.807-99,lucas.pereira@email.com,Diadema,23/08/2024
+742,Carlos Oliveira,988.445.769-04,carlos.oliveira@email.com,São Paulo,14/05/2024
+743,Maria Souza,815.648.194-23,maria.souza@email.com,Diadema,20/10/2024
+744,Carlos Oliveira,267.444.536-88,carlos.oliveira@email.com,Santo André,04/05/2024
+745,Maria Souza,379.075.767-74,maria.souza@email.com,São Caetano do Sul,27/05/2024
+746,Rafael Lima,399.493.211-65,rafael.lima@email.com,Campinas,14/12/2024
+747,Pedro Costa,149.837.666-65,pedro.costa@email.com,Osasco,23/04/2024
+748,Fernanda Rodrigues,414.847.028-01,fernanda.rodrigues@email.com,São Paulo,22/01/2024
+749,Maria Souza,267.799.220-23,maria.souza@email.com,Osasco,03/03/2024
+750,Rafael Lima,259.926.382-19,rafael.lima@email.com,Diadema,08/11/2024
+751,Fernanda Rodrigues,456.311.439-58,fernanda.rodrigues@email.com,Osasco,04/01/2024
+752,Carlos Oliveira,180.493.719-42,carlos.oliveira@email.com,Diadema,26/06/2024
+753,Juliana Almeida,233.826.931-30,juliana.almeida@email.com,São Paulo,28/01/2024
+754,Carlos Oliveira,987.484.340-62,carlos.oliveira@email.com,São Bernardo do Campo,12/06/2024
+755,Fernanda Rodrigues,957.064.553-26,fernanda.rodrigues@email.com,Diadema,03/12/2024
+756,Juliana Almeida,564.499.179-28,juliana.almeida@email.com,São Bernardo do Campo,13/02/2024
+757,Lucas Pereira,742.626.318-16,lucas.pereira@email.com,Diadema,23/07/2024
+758,Fernanda Rodrigues,692.701.153-09,fernanda.rodrigues@email.com,São Bernardo do Campo,05/02/2024
+759,João Silva,351.012.914-59,joão.silva@email.com,Santo André,19/07/2024
+760,Fernanda Rodrigues,907.551.123-28,fernanda.rodrigues@email.com,Osasco,20/03/2024
+761,Lucas Pereira,605.911.254-22,lucas.pereira@email.com,São Paulo,27/11/2024
+762,Carlos Oliveira,249.813.732-79,carlos.oliveira@email.com,Santos,02/08/2024
+763,Maria Souza,970.229.646-26,maria.souza@email.com,Campinas,23/01/2024
+764,Rafael Lima,424.914.800-97,rafael.lima@email.com,Campinas,17/09/2024
+765,Camila Martins,662.436.367-23,camila.martins@email.com,São Caetano do Sul,12/08/2024
+766,Lucas Pereira,865.639.674-39,lucas.pereira@email.com,São Paulo,21/01/2024
+767,Carlos Oliveira,193.003.388-16,carlos.oliveira@email.com,Osasco,08/06/2024
+768,Juliana Almeida,485.264.796-26,juliana.almeida@email.com,São Paulo,08/09/2024
+769,Rafael Lima,643.026.343-82,rafael.lima@email.com,Santos,03/04/2024
+770,Fernanda Rodrigues,725.907.084-29,fernanda.rodrigues@email.com,Santo André,15/08/2024
+771,Juliana Almeida,128.062.156-82,juliana.almeida@email.com,Santo André,14/07/2024
+772,João Silva,854.073.034-94,joão.silva@email.com,São Paulo,26/02/2024
+773,Camila Martins,957.411.676-42,camila.martins@email.com,Diadema,18/09/2024
+774,Ana Santos,587.085.978-90,ana.santos@email.com,São Paulo,28/04/2024
+775,Fernanda Rodrigues,844.402.555-99,fernanda.rodrigues@email.com,Osasco,22/12/2024
+776,Juliana Almeida,732.043.672-18,juliana.almeida@email.com,Santo André,25/02/2024
+777,Ana Santos,529.591.087-93,ana.santos@email.com,Campinas,26/11/2024
+778,Pedro Costa,810.717.898-57,pedro.costa@email.com,Campinas,04/12/2024
+779,João Silva,353.268.943-96,joão.silva@email.com,Osasco,27/03/2024
+780,Lucas Pereira,448.191.345-47,lucas.pereira@email.com,São Caetano do Sul,04/04/2024
+781,Lucas Pereira,710.554.920-26,lucas.pereira@email.com,São Caetano do Sul,11/12/2024
+782,Maria Souza,690.865.065-12,maria.souza@email.com,São Paulo,27/11/2024
+783,Camila Martins,739.595.979-37,camila.martins@email.com,Osasco,19/11/2024
+784,Rafael Lima,121.424.527-09,rafael.lima@email.com,São Paulo,14/09/2024
+785,Camila Martins,339.597.086-66,camila.martins@email.com,São Bernardo do Campo,13/02/2024
+786,Camila Martins,801.017.851-77,camila.martins@email.com,Santos,20/07/2024
+787,Ana Santos,627.146.929-01,ana.santos@email.com,Campinas,15/05/2024
+788,Carlos Oliveira,664.280.534-61,carlos.oliveira@email.com,Diadema,18/12/2024
+789,Juliana Almeida,870.324.377-93,juliana.almeida@email.com,São Caetano do Sul,07/04/2024
+790,Camila Martins,517.229.638-84,camila.martins@email.com,Campinas,05/11/2024
+791,Carlos Oliveira,851.786.498-65,carlos.oliveira@email.com,Campinas,04/12/2024
+792,Juliana Almeida,768.394.845-50,juliana.almeida@email.com,Santos,24/11/2024
+793,Rafael Lima,694.737.053-40,rafael.lima@email.com,São Paulo,04/09/2024
+794,João Silva,288.156.947-30,joão.silva@email.com,São Paulo,02/11/2024
+795,Ana Santos,348.486.715-58,ana.santos@email.com,Diadema,09/11/2024
+796,Carlos Oliveira,179.000.847-36,carlos.oliveira@email.com,Diadema,25/04/2024
+797,Rafael Lima,573.833.951-19,rafael.lima@email.com,Osasco,20/02/2024
+798,Rafael Lima,437.792.369-77,rafael.lima@email.com,Santos,17/04/2024
+799,Pedro Costa,631.784.924-76,pedro.costa@email.com,Santos,11/11/2024
+800,Rafael Lima,102.310.786-62,rafael.lima@email.com,Diadema,20/04/2024
+801,Fernanda Rodrigues,436.295.229-98,fernanda.rodrigues@email.com,Campinas,18/10/2024
+802,Camila Martins,494.857.720-12,camila.martins@email.com,Osasco,22/03/2024
+803,Maria Souza,250.918.573-25,maria.souza@email.com,Santos,14/01/2024
+804,Pedro Costa,467.503.112-58,pedro.costa@email.com,São Bernardo do Campo,19/03/2024
+805,Pedro Costa,529.739.186-31,pedro.costa@email.com,Osasco,05/12/2024
+806,João Silva,929.900.640-45,joão.silva@email.com,São Paulo,20/11/2024
+807,Pedro Costa,854.740.729-66,pedro.costa@email.com,Campinas,26/02/2024
+808,Juliana Almeida,423.213.257-06,juliana.almeida@email.com,São Bernardo do Campo,03/09/2024
+809,Rafael Lima,665.190.658-98,rafael.lima@email.com,Santos,12/02/2024
+810,Ana Santos,395.639.638-86,ana.santos@email.com,Campinas,12/06/2024
+811,Pedro Costa,948.370.102-02,pedro.costa@email.com,Osasco,27/09/2024
+812,João Silva,716.156.321-46,joão.silva@email.com,São Caetano do Sul,20/11/2024
+813,Camila Martins,567.535.543-82,camila.martins@email.com,Santos,13/02/2024
+814,Pedro Costa,112.147.412-96,pedro.costa@email.com,Campinas,26/09/2024
+815,Rafael Lima,763.381.617-54,rafael.lima@email.com,São Paulo,21/05/2024
+816,Ana Santos,800.952.095-47,ana.santos@email.com,Santo André,06/02/2024
+817,Rafael Lima,122.901.015-81,rafael.lima@email.com,Santo André,22/04/2024
+818,Ana Santos,362.161.660-46,ana.santos@email.com,Santos,27/11/2024
+819,Maria Souza,106.603.709-08,maria.souza@email.com,Osasco,11/12/2024
+820,João Silva,189.658.340-08,joão.silva@email.com,São Paulo,26/03/2024
+821,Pedro Costa,209.868.880-06,pedro.costa@email.com,São Caetano do Sul,14/05/2024
+822,Lucas Pereira,978.369.158-93,lucas.pereira@email.com,Santos,11/07/2024
+823,João Silva,835.225.634-10,joão.silva@email.com,São Paulo,24/11/2024
+824,Camila Martins,905.132.466-18,camila.martins@email.com,São Paulo,28/12/2024
+825,Maria Souza,250.445.701-60,maria.souza@email.com,Diadema,10/11/2024
+826,Camila Martins,490.262.427-62,camila.martins@email.com,Osasco,13/07/2024
+827,João Silva,335.105.980-75,joão.silva@email.com,São Caetano do Sul,24/03/2024
+828,Lucas Pereira,866.628.789-06,lucas.pereira@email.com,Diadema,05/11/2024
+829,Pedro Costa,990.317.711-31,pedro.costa@email.com,Campinas,18/01/2024
+830,Rafael Lima,234.920.980-45,rafael.lima@email.com,São Paulo,19/01/2024
+831,Camila Martins,847.070.120-32,camila.martins@email.com,Santo André,07/05/2024
+832,Juliana Almeida,667.439.780-92,juliana.almeida@email.com,São Bernardo do Campo,06/03/2024
+833,Ana Santos,368.553.214-68,ana.santos@email.com,Santo André,22/03/2024
+834,Camila Martins,179.553.580-38,camila.martins@email.com,Osasco,18/11/2024
+835,Maria Souza,446.490.592-04,maria.souza@email.com,Santo André,24/04/2024
+836,Camila Martins,586.656.341-78,camila.martins@email.com,São Bernardo do Campo,21/11/2024
+837,Ana Santos,490.843.959-24,ana.santos@email.com,Santo André,11/04/2024
+838,Fernanda Rodrigues,548.851.827-07,fernanda.rodrigues@email.com,Diadema,19/12/2024
+839,Carlos Oliveira,897.384.386-88,carlos.oliveira@email.com,Campinas,14/06/2024
+840,Carlos Oliveira,529.704.257-52,carlos.oliveira@email.com,São Caetano do Sul,23/04/2024
+841,Lucas Pereira,287.238.498-11,lucas.pereira@email.com,Campinas,15/08/2024
+842,Fernanda Rodrigues,757.365.008-04,fernanda.rodrigues@email.com,Santo André,21/03/2024
+843,Camila Martins,307.294.177-51,camila.martins@email.com,São Caetano do Sul,24/05/2024
+844,Maria Souza,217.142.027-67,maria.souza@email.com,São Paulo,21/09/2024
+845,João Silva,907.996.838-47,joão.silva@email.com,Santos,07/10/2024
+846,João Silva,467.288.165-74,joão.silva@email.com,Osasco,25/11/2024
+847,Carlos Oliveira,631.107.866-18,carlos.oliveira@email.com,São Caetano do Sul,24/10/2024
+848,Pedro Costa,707.045.577-69,pedro.costa@email.com,Santo André,12/07/2024
+849,Rafael Lima,958.214.060-06,rafael.lima@email.com,São Bernardo do Campo,05/09/2024
+850,Fernanda Rodrigues,321.586.915-61,fernanda.rodrigues@email.com,São Bernardo do Campo,24/12/2024
+851,Fernanda Rodrigues,612.783.672-68,fernanda.rodrigues@email.com,São Paulo,25/04/2024
+852,Fernanda Rodrigues,195.852.928-75,fernanda.rodrigues@email.com,Diadema,08/06/2024
+853,João Silva,386.413.570-65,joão.silva@email.com,Campinas,16/07/2024
+854,Fernanda Rodrigues,180.812.042-36,fernanda.rodrigues@email.com,São Paulo,11/11/2024
+855,Maria Souza,981.386.254-78,maria.souza@email.com,Diadema,09/12/2024
+856,Camila Martins,896.473.770-27,camila.martins@email.com,São Bernardo do Campo,21/07/2024
+857,Lucas Pereira,888.783.490-24,lucas.pereira@email.com,Santo André,09/09/2024
+858,Lucas Pereira,796.768.217-49,lucas.pereira@email.com,Santos,27/06/2024
+859,Juliana Almeida,125.950.664-20,juliana.almeida@email.com,São Bernardo do Campo,06/08/2024
+860,Ana Santos,790.505.681-34,ana.santos@email.com,Diadema,05/04/2024
+861,Carlos Oliveira,579.204.849-28,carlos.oliveira@email.com,Santo André,08/11/2024
+862,Lucas Pereira,564.336.328-75,lucas.pereira@email.com,Santo André,22/08/2024
+863,Fernanda Rodrigues,378.271.840-26,fernanda.rodrigues@email.com,São Bernardo do Campo,27/11/2024
+864,Lucas Pereira,401.611.760-88,lucas.pereira@email.com,São Paulo,19/03/2024
+865,Camila Martins,278.719.135-74,camila.martins@email.com,São Paulo,05/10/2024
+866,João Silva,450.741.690-96,joão.silva@email.com,São Bernardo do Campo,13/09/2024
+867,Camila Martins,914.722.812-55,camila.martins@email.com,São Paulo,24/12/2024
+868,Pedro Costa,226.583.589-99,pedro.costa@email.com,São Caetano do Sul,20/08/2024
+869,Fernanda Rodrigues,781.495.448-81,fernanda.rodrigues@email.com,São Bernardo do Campo,27/04/2024
+870,Lucas Pereira,297.604.518-37,lucas.pereira@email.com,São Bernardo do Campo,22/10/2024
+871,Rafael Lima,326.109.442-39,rafael.lima@email.com,Campinas,20/08/2024
+872,Camila Martins,403.604.490-86,camila.martins@email.com,Santos,05/07/2024
+873,Maria Souza,358.409.397-39,maria.souza@email.com,Santos,20/03/2024
+874,Maria Souza,751.865.319-18,maria.souza@email.com,São Paulo,17/09/2024
+875,Maria Souza,748.247.572-95,maria.souza@email.com,São Bernardo do Campo,18/10/2024
+876,João Silva,686.230.039-30,joão.silva@email.com,Santos,28/06/2024
+877,João Silva,817.158.297-77,joão.silva@email.com,Santos,26/04/2024
+878,Fernanda Rodrigues,588.820.385-52,fernanda.rodrigues@email.com,Santo André,05/07/2024
+879,Pedro Costa,222.795.402-16,pedro.costa@email.com,Diadema,18/10/2024
+880,Lucas Pereira,368.770.677-29,lucas.pereira@email.com,São Paulo,24/12/2024
+881,João Silva,812.019.126-11,joão.silva@email.com,Santo André,01/09/2024
+882,Lucas Pereira,385.810.579-68,lucas.pereira@email.com,Campinas,12/07/2024
+883,Maria Souza,664.993.437-87,maria.souza@email.com,Diadema,28/05/2024
+884,Rafael Lima,891.285.943-26,rafael.lima@email.com,Campinas,09/10/2024
+885,Lucas Pereira,390.123.834-18,lucas.pereira@email.com,Santos,26/09/2024
+886,Rafael Lima,335.470.197-27,rafael.lima@email.com,Campinas,18/09/2024
+887,Fernanda Rodrigues,886.264.762-99,fernanda.rodrigues@email.com,Campinas,13/12/2024
+888,Carlos Oliveira,257.165.001-91,carlos.oliveira@email.com,São Caetano do Sul,26/08/2024
+889,Carlos Oliveira,362.004.971-73,carlos.oliveira@email.com,Santos,26/06/2024
+890,Rafael Lima,316.984.015-62,rafael.lima@email.com,Santos,01/11/2024
+891,Maria Souza,307.157.244-82,maria.souza@email.com,Osasco,14/10/2024
+892,Maria Souza,446.349.618-46,maria.souza@email.com,São Caetano do Sul,03/06/2024
+893,Camila Martins,657.677.799-62,camila.martins@email.com,Diadema,20/12/2024
+894,João Silva,349.976.920-70,joão.silva@email.com,Osasco,01/08/2024
+895,Ana Santos,508.801.570-67,ana.santos@email.com,São Caetano do Sul,26/01/2024
+896,Camila Martins,809.122.630-44,camila.martins@email.com,São Caetano do Sul,06/10/2024
+897,João Silva,416.098.426-13,joão.silva@email.com,São Paulo,03/03/2024
+898,Pedro Costa,648.882.770-61,pedro.costa@email.com,Campinas,13/11/2024
+899,Lucas Pereira,382.869.989-26,lucas.pereira@email.com,São Paulo,23/12/2024
+900,Maria Souza,225.377.715-76,maria.souza@email.com,Diadema,27/12/2024
+901,Rafael Lima,912.393.449-38,rafael.lima@email.com,Campinas,27/06/2024
+902,Pedro Costa,925.763.104-43,pedro.costa@email.com,São Caetano do Sul,13/08/2024
+903,Camila Martins,443.797.162-03,camila.martins@email.com,São Bernardo do Campo,17/07/2024
+904,Maria Souza,209.892.352-44,maria.souza@email.com,Diadema,04/06/2024
+905,Rafael Lima,484.687.737-37,rafael.lima@email.com,Diadema,15/12/2024
+906,Lucas Pereira,768.433.001-80,lucas.pereira@email.com,São Caetano do Sul,25/06/2024
+907,Fernanda Rodrigues,730.569.689-80,fernanda.rodrigues@email.com,São Paulo,04/08/2024
+908,Pedro Costa,618.297.509-05,pedro.costa@email.com,São Caetano do Sul,23/11/2024
+909,Ana Santos,563.863.399-83,ana.santos@email.com,Santos,17/06/2024
+910,Rafael Lima,479.339.115-59,rafael.lima@email.com,São Caetano do Sul,03/05/2024
+911,Lucas Pereira,564.761.619-06,lucas.pereira@email.com,Santo André,06/09/2024
+912,Fernanda Rodrigues,585.927.135-95,fernanda.rodrigues@email.com,São Caetano do Sul,09/10/2024
+913,Carlos Oliveira,396.779.124-68,carlos.oliveira@email.com,Osasco,07/12/2024
+914,Ana Santos,432.234.148-58,ana.santos@email.com,Diadema,08/04/2024
+915,Ana Santos,436.508.131-48,ana.santos@email.com,Campinas,25/03/2024
+916,Maria Souza,937.203.580-84,maria.souza@email.com,São Paulo,02/09/2024
+917,Fernanda Rodrigues,931.986.556-06,fernanda.rodrigues@email.com,Campinas,19/08/2024
+918,Pedro Costa,335.828.294-22,pedro.costa@email.com,Diadema,08/07/2024
+919,Camila Martins,148.457.794-80,camila.martins@email.com,Santos,18/08/2024
+920,João Silva,594.027.548-49,joão.silva@email.com,Santos,25/11/2024
+921,Carlos Oliveira,723.552.162-65,carlos.oliveira@email.com,Campinas,01/12/2024
+922,João Silva,386.650.543-88,joão.silva@email.com,Santos,04/10/2024
+923,Juliana Almeida,931.574.487-73,juliana.almeida@email.com,Diadema,18/03/2024
+924,Pedro Costa,453.782.432-87,pedro.costa@email.com,Osasco,11/10/2024
+925,Juliana Almeida,752.144.126-63,juliana.almeida@email.com,Santos,14/04/2024
+926,Juliana Almeida,460.802.704-75,juliana.almeida@email.com,Osasco,19/03/2024
+927,Carlos Oliveira,915.153.544-74,carlos.oliveira@email.com,São Caetano do Sul,24/02/2024
+928,Pedro Costa,435.183.009-37,pedro.costa@email.com,Santos,07/07/2024
+929,Carlos Oliveira,303.518.829-90,carlos.oliveira@email.com,Osasco,06/01/2024
+930,Lucas Pereira,293.256.255-26,lucas.pereira@email.com,Campinas,10/08/2024
+931,Pedro Costa,167.337.979-87,pedro.costa@email.com,Santos,23/02/2024
+932,Carlos Oliveira,360.276.580-55,carlos.oliveira@email.com,Diadema,27/08/2024
+933,Maria Souza,457.970.772-54,maria.souza@email.com,Campinas,18/06/2024
+934,Rafael Lima,583.515.170-02,rafael.lima@email.com,São Paulo,04/07/2024
+935,Juliana Almeida,957.409.327-37,juliana.almeida@email.com,São Caetano do Sul,19/10/2024
+936,Rafael Lima,520.061.077-22,rafael.lima@email.com,Campinas,22/06/2024
+937,Rafael Lima,732.928.979-35,rafael.lima@email.com,Santo André,20/07/2024
+938,Pedro Costa,978.911.459-39,pedro.costa@email.com,São Bernardo do Campo,21/03/2024
+939,Juliana Almeida,977.110.339-27,juliana.almeida@email.com,Santos,03/02/2024
+940,Carlos Oliveira,415.406.313-27,carlos.oliveira@email.com,Campinas,21/06/2024
+941,Pedro Costa,474.110.269-51,pedro.costa@email.com,Santos,15/05/2024
+942,Juliana Almeida,905.215.980-25,juliana.almeida@email.com,Osasco,06/07/2024
+943,Carlos Oliveira,136.688.119-53,carlos.oliveira@email.com,São Bernardo do Campo,08/12/2024
+944,Pedro Costa,361.136.792-07,pedro.costa@email.com,São Bernardo do Campo,04/07/2024
+945,Maria Souza,781.984.584-44,maria.souza@email.com,São Paulo,25/01/2024
+946,Lucas Pereira,228.677.810-16,lucas.pereira@email.com,Santo André,20/05/2024
+947,Carlos Oliveira,962.614.600-34,carlos.oliveira@email.com,Santos,08/05/2024
+948,Ana Santos,518.226.444-59,ana.santos@email.com,Osasco,05/11/2024
+949,Carlos Oliveira,107.327.557-30,carlos.oliveira@email.com,São Paulo,12/11/2024
+950,Juliana Almeida,781.363.968-84,juliana.almeida@email.com,Osasco,09/09/2024
+951,Rafael Lima,290.904.636-47,rafael.lima@email.com,São Bernardo do Campo,20/10/2024
+952,Fernanda Rodrigues,682.568.697-75,fernanda.rodrigues@email.com,Diadema,16/06/2024
+953,Rafael Lima,705.141.737-44,rafael.lima@email.com,Diadema,14/06/2024
+954,Pedro Costa,493.235.073-96,pedro.costa@email.com,São Paulo,17/01/2024
+955,Carlos Oliveira,501.316.801-44,carlos.oliveira@email.com,Osasco,01/09/2024
+956,Fernanda Rodrigues,507.036.931-37,fernanda.rodrigues@email.com,São Paulo,26/07/2024
+957,Pedro Costa,426.288.826-77,pedro.costa@email.com,São Paulo,12/09/2024
+958,Ana Santos,682.421.374-83,ana.santos@email.com,Santos,06/04/2024
+959,Lucas Pereira,650.976.738-08,lucas.pereira@email.com,São Caetano do Sul,03/05/2024
+960,Lucas Pereira,427.505.129-87,lucas.pereira@email.com,Diadema,21/05/2024
+961,Rafael Lima,478.335.450-63,rafael.lima@email.com,Santos,28/04/2024
+962,Maria Souza,279.633.020-51,maria.souza@email.com,Diadema,21/02/2024
+963,Fernanda Rodrigues,727.826.697-76,fernanda.rodrigues@email.com,Diadema,20/12/2024
+964,Fernanda Rodrigues,537.562.224-89,fernanda.rodrigues@email.com,São Paulo,02/03/2024
+965,Rafael Lima,315.698.879-15,rafael.lima@email.com,Santo André,09/05/2024
+966,Carlos Oliveira,732.012.853-25,carlos.oliveira@email.com,São Paulo,03/04/2024
+967,Carlos Oliveira,744.877.521-90,carlos.oliveira@email.com,São Caetano do Sul,14/06/2024
+968,Pedro Costa,717.246.804-59,pedro.costa@email.com,São Paulo,03/06/2024
+969,Carlos Oliveira,446.004.212-32,carlos.oliveira@email.com,Santos,18/02/2024
+970,Fernanda Rodrigues,365.497.858-99,fernanda.rodrigues@email.com,Diadema,27/07/2024
+971,João Silva,626.088.927-59,joão.silva@email.com,Osasco,24/04/2024
+972,João Silva,709.850.131-89,joão.silva@email.com,Santo André,22/09/2024
+973,Ana Santos,635.703.778-20,ana.santos@email.com,Diadema,06/06/2024
+974,João Silva,810.799.046-38,joão.silva@email.com,Santo André,16/05/2024
+975,Pedro Costa,580.981.517-49,pedro.costa@email.com,São Paulo,07/11/2024
+976,Maria Souza,969.128.114-78,maria.souza@email.com,Santos,01/06/2024
+977,Carlos Oliveira,477.716.191-61,carlos.oliveira@email.com,Santo André,26/07/2024
+978,Ana Santos,874.897.714-77,ana.santos@email.com,Osasco,20/12/2024
+979,Carlos Oliveira,404.490.843-36,carlos.oliveira@email.com,São Bernardo do Campo,03/08/2024
+980,Camila Martins,991.616.319-74,camila.martins@email.com,São Paulo,12/01/2024
+981,Carlos Oliveira,860.266.254-57,carlos.oliveira@email.com,Santo André,16/03/2024
+982,Ana Santos,739.597.765-77,ana.santos@email.com,São Caetano do Sul,23/01/2024
+983,Lucas Pereira,449.384.086-52,lucas.pereira@email.com,São Paulo,23/08/2024
+984,Fernanda Rodrigues,510.556.988-48,fernanda.rodrigues@email.com,Osasco,19/04/2024
+985,Carlos Oliveira,595.794.727-29,carlos.oliveira@email.com,Campinas,15/12/2024
+986,Pedro Costa,867.105.247-70,pedro.costa@email.com,São Bernardo do Campo,17/02/2024
+987,Carlos Oliveira,505.847.961-26,carlos.oliveira@email.com,Diadema,12/09/2024
+988,Fernanda Rodrigues,814.597.777-97,fernanda.rodrigues@email.com,Santos,06/12/2024
+989,João Silva,427.284.982-69,joão.silva@email.com,Campinas,03/12/2024
+990,Rafael Lima,650.573.993-77,rafael.lima@email.com,São Caetano do Sul,22/09/2024
+991,Fernanda Rodrigues,863.032.469-32,fernanda.rodrigues@email.com,São Bernardo do Campo,10/10/2024
+992,Juliana Almeida,976.594.429-61,juliana.almeida@email.com,Campinas,04/02/2024
+993,Rafael Lima,214.198.500-41,rafael.lima@email.com,São Paulo,06/03/2024
+994,João Silva,237.528.247-06,joão.silva@email.com,Osasco,04/04/2024
+995,João Silva,983.518.245-66,joão.silva@email.com,Santos,16/11/2024
+996,Rafael Lima,468.950.615-01,rafael.lima@email.com,São Paulo,08/06/2024
+997,Camila Martins,216.730.562-38,camila.martins@email.com,São Paulo,21/04/2024
+998,Fernanda Rodrigues,221.636.810-91,fernanda.rodrigues@email.com,Osasco,02/11/2024
+999,Juliana Almeida,173.376.672-42,juliana.almeida@email.com,Diadema,02/09/2024
+1000,Maria Souza,522.386.690-53,maria.souza@email.com,Santo André,17/04/2024
